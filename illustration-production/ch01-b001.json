@@ -1,0 +1,209 @@
+{
+  "id": "ch01-b001",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    378,
+    250
+  ],
+  "source": "ch01-b001-approved-v2.png",
+  "generatedCalls": 2,
+  "review": "16 equal panels checked; windbreaker and summer foliage corrected; images reviewed against first34 sentence spans",
+  "qualityLimitation": "Native output only1536x1024 despite larger request; no upscaling",
+  "scenes": [
+    {
+      "id": "ch01-b001-01",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s1",
+      "lastSentenceId": "ch1-s4",
+      "beforeSentenceId": "ch1-s1",
+      "image": "assets/scenes/ch01-b001/01.png",
+      "alt": "Michael considers canned peaches for his mother",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": "Opening thought and dependent mother/Y2K context retained together; density review pending"
+    },
+    {
+      "id": "ch01-b001-02",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s5",
+      "lastSentenceId": "ch1-s6",
+      "beforeSentenceId": "ch1-s5",
+      "image": "assets/scenes/ch01-b001/02.png",
+      "alt": "Michael selects a peach can",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-03",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s7",
+      "lastSentenceId": "ch1-s12",
+      "beforeSentenceId": "ch1-s7",
+      "image": "assets/scenes/ch01-b001/03.png",
+      "alt": "Michael checks the nearly empty aisle",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-04",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s13",
+      "lastSentenceId": "ch1-s13",
+      "beforeSentenceId": "ch1-s13",
+      "image": "assets/scenes/ch01-b001/04.png",
+      "alt": "Michael hides the can in his windbreaker",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-05",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s14",
+      "lastSentenceId": "ch1-s14",
+      "beforeSentenceId": "ch1-s14",
+      "image": "assets/scenes/ch01-b001/05.png",
+      "alt": "Michael heads toward the exit",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-06",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s15",
+      "lastSentenceId": "ch1-s18",
+      "beforeSentenceId": "ch1-s15",
+      "image": "assets/scenes/ch01-b001/06.png",
+      "alt": "Imagined peaches for the new millennium",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-07",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s19",
+      "lastSentenceId": "ch1-s20",
+      "beforeSentenceId": "ch1-s19",
+      "image": "assets/scenes/ch01-b001/07.png",
+      "alt": "Michael reflects on turning twelve",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-08",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s21",
+      "lastSentenceId": "ch1-s22",
+      "beforeSentenceId": "ch1-s21",
+      "image": "assets/scenes/ch01-b001/08.png",
+      "alt": "Michael imagines eating refrigerated food first",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-09",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s23",
+      "lastSentenceId": "ch1-s23",
+      "beforeSentenceId": "ch1-s23",
+      "image": "assets/scenes/ch01-b001/09.png",
+      "alt": "Michael approaches the automatic doors",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-10",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s24",
+      "lastSentenceId": "ch1-s25",
+      "beforeSentenceId": "ch1-s24",
+      "image": "assets/scenes/ch01-b001/10.png",
+      "alt": "Michael freezes at a familiar greeting",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-11",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s26",
+      "lastSentenceId": "ch1-s26",
+      "beforeSentenceId": "ch1-s26",
+      "image": "assets/scenes/ch01-b001/11.png",
+      "alt": "Michael recognizes Beejee’s voice",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-12",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s27",
+      "lastSentenceId": "ch1-s28",
+      "beforeSentenceId": "ch1-s27",
+      "image": "assets/scenes/ch01-b001/12.png",
+      "alt": "Michael feels unable to ignore Beejee",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-13",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s29",
+      "lastSentenceId": "ch1-s30",
+      "beforeSentenceId": "ch1-s29",
+      "image": "assets/scenes/ch01-b001/13.png",
+      "alt": "Michael turns with the heavy can hidden",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-14",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s31",
+      "lastSentenceId": "ch1-s31",
+      "beforeSentenceId": "ch1-s31",
+      "image": "assets/scenes/ch01-b001/14.png",
+      "alt": "Michael’s eyes water from his summer cold",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-15",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s32",
+      "lastSentenceId": "ch1-s32",
+      "beforeSentenceId": "ch1-s32",
+      "image": "assets/scenes/ch01-b001/15.png",
+      "alt": "Michael wants to disappear",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    },
+    {
+      "id": "ch01-b001-16",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s33",
+      "lastSentenceId": "ch1-s34",
+      "beforeSentenceId": "ch1-s33",
+      "image": "assets/scenes/ch01-b001/16.png",
+      "alt": "Beejee works beside a cart of potatoes",
+      "status": "visual-reviewed",
+      "readingUnitsStatus": "semantic pilot; actual font-layout measurement pending",
+      "exception": null
+    }
+  ]
+}
