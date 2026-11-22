@@ -1,0 +1,288 @@
+{
+  "id": "ch02-b001",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch02-b001-approved-v1.png",
+  "qualityLimitation": "Native1536x1024; no artificial upscaling. Full high-resolution target not reached.",
+  "scenes": [
+    {
+      "id": "ch02-b001-01",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s1",
+      "lastSentenceId": "ch2-s4",
+      "beforeSentenceId": "ch2-s1",
+      "image": "assets/scenes/ch02-b001/01.png",
+      "alt": "Michael returns to find Gibby on the secondhand couch",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-02",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s5",
+      "lastSentenceId": "ch2-s7",
+      "beforeSentenceId": "ch2-s5",
+      "image": "assets/scenes/ch02-b001/02.png",
+      "alt": "Michael blushes near Gibby",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-03",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s8",
+      "lastSentenceId": "ch2-s9",
+      "beforeSentenceId": "ch2-s8",
+      "image": "assets/scenes/ch02-b001/03.png",
+      "alt": "Michael wonders about her strawberry scent",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-04",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s10",
+      "lastSentenceId": "ch2-s11",
+      "beforeSentenceId": "ch2-s10",
+      "image": "assets/scenes/ch02-b001/04.png",
+      "alt": "Gibby is the reason Michael likes Fox Run",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-05",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s12",
+      "lastSentenceId": "ch2-s14",
+      "beforeSentenceId": "ch2-s12",
+      "image": "assets/scenes/ch02-b001/05.png",
+      "alt": "Gibby questions his absence",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-06",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s15",
+      "lastSentenceId": "ch2-s17",
+      "beforeSentenceId": "ch2-s15",
+      "image": "assets/scenes/ch02-b001/06.png",
+      "alt": "Michael interrupts with an excuse",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-07",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s18",
+      "lastSentenceId": "ch2-s19",
+      "beforeSentenceId": "ch2-s18",
+      "image": "assets/scenes/ch02-b001/07.png",
+      "alt": "Michael thinks about the irregular babysitting schedule",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-08",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s20",
+      "lastSentenceId": "ch2-s21",
+      "beforeSentenceId": "ch2-s20",
+      "image": "assets/scenes/ch02-b001/08.png",
+      "alt": "Michael wishes Gibby could visit every day",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-09",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s22",
+      "lastSentenceId": "ch2-s23",
+      "beforeSentenceId": "ch2-s22",
+      "image": "assets/scenes/ch02-b001/09.png",
+      "alt": "Gibby asks where he was",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-10",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s24",
+      "lastSentenceId": "ch2-s25",
+      "beforeSentenceId": "ch2-s24",
+      "image": "assets/scenes/ch02-b001/10.png",
+      "alt": "Michael avoids her gaze",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-11",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s26",
+      "lastSentenceId": "ch2-s27",
+      "beforeSentenceId": "ch2-s26",
+      "image": "assets/scenes/ch02-b001/11.png",
+      "alt": "Gibby taps a pink sandal",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-12",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s28",
+      "lastSentenceId": "ch2-s29",
+      "beforeSentenceId": "ch2-s28",
+      "image": "assets/scenes/ch02-b001/12.png",
+      "alt": "Michael fears getting in trouble",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-13",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s30",
+      "lastSentenceId": "ch2-s31",
+      "beforeSentenceId": "ch2-s30",
+      "image": "assets/scenes/ch02-b001/13.png",
+      "alt": "Michael worries Beejee will tell Gibby",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-14",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s32",
+      "lastSentenceId": "ch2-s33",
+      "beforeSentenceId": "ch2-s32",
+      "image": "assets/scenes/ch02-b001/14.png",
+      "alt": "Michael chooses a half-truth about Jamar",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-15",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s34",
+      "lastSentenceId": "ch2-s36",
+      "beforeSentenceId": "ch2-s34",
+      "image": "assets/scenes/ch02-b001/15.png",
+      "alt": "Gibby asks what they talked about",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch02-b001-16",
+      "chapter": 2,
+      "firstSentenceId": "ch2-s37",
+      "lastSentenceId": "ch2-s38",
+      "beforeSentenceId": "ch2-s37",
+      "image": "assets/scenes/ch02-b001/16.png",
+      "alt": "Michael pauses before answering",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby reference plaid shirt/cream top/jeans with source-specified pink sandals",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    }
+  ]
+}
