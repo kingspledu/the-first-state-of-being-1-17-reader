@@ -1,0 +1,286 @@
+{
+  "date": "2026-11-22",
+  "scope": "통합 대상 페이지·설정·참조 자산. 전체 장면 삽화 목록은 아님.",
+  "sources": [
+    {
+      "path": "tfsob-1-17-public/characters.json",
+      "sha256": "d9ce223226cad3c414ffcaf41a14573b259d295121d59c6e1bff900f60750824",
+      "kind": "metadata",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/character-sheets.json",
+      "sha256": "b10c6ec36b4e0f212fbf7a80578bea18b17f7b99ae38e6e816961243d87693cd",
+      "kind": "metadata",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/voice-cast.json",
+      "sha256": "eb69344d0f4c5b4758519425aaa4ace1ce48377b5a4fc6c6d0d022514c1196b8",
+      "kind": "metadata",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/characters.html",
+      "sha256": "4bff3128d8be9d594c901294d50b354ee34031364dd2b590e0d298079dbf5236",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/character-sheets.html",
+      "sha256": "4f65c2b878172784052641b7eb2b17342ba3772cc4242d65f18a7b0815ef49fc",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/resources.html",
+      "sha256": "6f147f70c93c2a9e13755de23774c6de6eadd073fb0449e8138ddf90027098cd",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-reader-fix/resources.html",
+      "sha256": "91cba57183fdf650294a700dc5a0a3f56fd72cfeb58022c5367f0a3a4e44d712",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-reader-fix/production.html",
+      "sha256": "0610bb977838fab5378895b30d342c8c7c892fb5fa9fca1e5bc71105c74f490b",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/sabio-resources.html",
+      "sha256": "02938c657aac554681ea2283b5cbde5a8c021821c6fe1f7e0304e7ea69cfedf0",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/sabio-character-bible.json",
+      "sha256": "9c234c13198b00f0a75c5ea935326f41da19ae6143745e75761d4fb4bf0b9653",
+      "kind": "metadata",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/index.html",
+      "sha256": "bf782f73af8091909623e82b5f0cb3e0c813be94214aa3ea1935ee9c20dc0713",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-release/index.html",
+      "sha256": "67cca7e864dcffd2f81ea71254989e1eb732d0185e103151c2f1c4ca308f37ae",
+      "kind": "page",
+      "role": "deployment-copy",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-reader-fix/index.html",
+      "sha256": "c0c797219ed16d0852de5987d860c1ffbf8bed08db2849c5621efb817b733939",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/index.html",
+      "sha256": "e8ad1e61952b24a8fdbde8b6ae2ab95a4e23e80e548d397c3ad753fb1ecc1e7b",
+      "kind": "page",
+      "role": "source",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "sha256": "eaaac9471dd8c98afad743177b6be166a046cc68a8368db5aab3434605d99f01",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-reader-fix/assets/environments-master.png",
+      "sha256": "75815d4ad07ce95677f16e7b5f5bd94b82b52ea239bf89159283a79f5600a807",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+      "sha256": "c48f95e07be059ddbe9df48b8738fb4b419a6a207de863df1f9d3b40e0bc9f8c",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-reader-fix/assets/ch18-master-grid-001.png",
+      "sha256": "a2bf799c0204c6539a871535bcd8b9fa19348b750af2012345a14e0a76f5f0c9",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/assets/sabio-maria-reference.webp",
+      "sha256": "aeaf40a1403c2bbb88c70e70abb802125145a69a31fc7480effefd5adf3551f9",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/assets/sabio-ian-reference.webp",
+      "sha256": "cb5aad575e8bc31bcb882546a298d86a8460235e550cf4365882037db58d8efa",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/assets/sabio-shale-reference.webp",
+      "sha256": "b47d462bde4513bcbe865c900e50ac1c652e421352657002e46f0bf9d8e61ad6",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-29-38-public/assets/sabio-bex-reference.webp",
+      "sha256": "f0b2ed0c4b8c52cba1510f7c250e4905fe9bf53d4c4076124149dd9038c4ae8c",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/michael-v1.webp",
+      "sha256": "e999df058202802127f3c8fca9dd9eb0b161e45f66314544a1310923a00203ba",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/michael-v1.png",
+      "sha256": "b9ba517d5a9327ca52f06f5a419cc6b666430b6e829375a3ade1e55a9541fd74",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/ridge-v1.webp",
+      "sha256": "fc90a02f99bff9d9efc895d300b2e5ce07b26bdd5d77f8e527b709ee169b6855",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/ridge-v1.png",
+      "sha256": "6b839d32f92062cfd4dfc4f4755b3353e2562fa3987b8d36c84bb85706b536ac",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/gibby-v1.webp",
+      "sha256": "88a1f56a088b2b73c348398de234105fe93d256ee00838688e6b62e79697e82f",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/gibby-v1.png",
+      "sha256": "e2d31d7ae418f285a0447850ebca1582ce9d863068cc4df881387469558458e1",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/rosario-v1.webp",
+      "sha256": "2bf8dd5e3bada17772803d7f89c199deca250669029ac1ff2f0f96f9425c8858",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/rosario-v1.png",
+      "sha256": "796441783718067c2c877970c50756b1f1322a0f95a9421b0b78821801f88229",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/mosley-v1.webp",
+      "sha256": "dcbac289d66d64aebe861ca23b6247ca34cdba82566b6cdca3377cb032d9ce57",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/mosley-v1.png",
+      "sha256": "2255c3bb5f6a36db417b718daa8eea473ab92f785c60210daf6e92c7842e4d71",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/beejee-v1.webp",
+      "sha256": "c06aeab20efab9d845073bc1ee7806b544e5bf405a08a4035fac2f2d96ce1474",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/beejee-v1.png",
+      "sha256": "e792382dff6195645d04b2d1402489facb695eef6dc237d3840cf111cd13b1d0",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/paige-v1.webp",
+      "sha256": "21d4e7e76e2843b83826bb4f772b45b67d3e2a9ee2e431c4981c4bdb7b171c04",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/paige-v1.png",
+      "sha256": "fbb1aea40eac2e73d1a491eedd4f7b154518cdc931e97489c86784ff9ae52dea",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/maria-v1.webp",
+      "sha256": "0e0089a7c100133a8edd15d15ecc0dcf38dda42c92b6b15844b39d32b82538ce",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/maria-v1.png",
+      "sha256": "34cebc126f2e57fbeac5a053929caa9e7a08b290329373153e8853c6f82b9cc1",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/ian-v1.webp",
+      "sha256": "6349ae09052c244860fca8570c7247b168155c8dae7850c35eb346a383e90b17",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/ian-v1.png",
+      "sha256": "7d7089db30761740ce65b6c56400b2fa7c8e2ec1b94f6931f550184fa18121e3",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/shale-v1.webp",
+      "sha256": "c5c7f6e4ebd03fda9064a32e40a181a6cc3a12e964f04054ce2d5a9d46daebdd",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/shale-v1.png",
+      "sha256": "d00d0d6366458d996f82992e74958f5adffca6e88168bbd031ca3bf1891386d8",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/bex-v1.webp",
+      "sha256": "ec37e74577f9d0e7828997af2edb7b811c663014485758c0b740d29937d1e647",
+      "kind": "reference-image",
+      "preserve": true
+    },
+    {
+      "path": "tfsob-1-17-public/assets/character-sheets/bex-v1.png",
+      "sha256": "f17a3cb8da71293272919fbfd01b7a3972cbb09846e643438476cccadc291ac0",
+      "kind": "reference-image",
+      "preserve": true
+    }
+  ],
+  "duplicateGroups": [],
+  "visualComparison": "기존 Sabio 개별 4개를 직접 열어 후기 가족 외형과 비교: Maria 안경·회색 줄기, Ian 갈색 눈/청록, Shale 파란 눈/주황, Bex 단발/파란 눈/라벤더를 확인. 전체 장면 검수 아님."
+}

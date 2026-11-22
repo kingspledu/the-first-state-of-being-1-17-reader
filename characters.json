@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "purpose": "Codex illustration reference",
+  "version": "2026-11-22.1",
+  "purpose": "Compatibility export; edit consistency/registry.json only",
   "scope": "1–39장 중 확보된 1–12,15 일부,16–39 조사. 13–14 미확보;15 완전성 미확인. 전체 인물 최종 누락 없음 보장 불가.",
   "authority": [
     "원문 사실 우선",
@@ -25,8 +25,6 @@
       ],
       "category": "주연",
       "sourceFacts": "1999 / 12세. Rosario의 아들. 새 학기 7학년. 작은 체격과 불안, 성장에 대한 열망이 반복된다.",
-      "productionDesign": "짙은 짧은 헝클어진 머리, 큰 갈색 눈, 작고 마른 체형. 기존 마스터의 얼굴·피부색을 기준으로 고정.",
-      "wardrobe": "기본 남색 후디·줄무늬 티·청바지·흰 Jordans. 17장에서는 Red Hot Chili Peppers 티셔츠. 의상은 사건 시점에 맞춰 변경.",
       "actingAndRestrictions": "어깨를 움츠리고 손을 꼭 쥠. 불안·질투·부끄러움과 성장하는 결단을 구분. 성인 체형으로 키우지 않는다.",
       "evidenceChapters": [
         1,
@@ -80,7 +78,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "짙은 짧은 헝클어진 머리, 큰 갈색 눈, 작고 마른 체형. 기존 마스터의 얼굴·피부색을 기준으로 고정.",
+      "wardrobe": "기본 남색 후디·줄무늬 티·청바지·흰 Jordans. 17장에서는 Red Hot Chili Peppers 티셔츠. 의상은 사건 시점에 맞춰 변경."
     },
     {
       "id": "ridge",
@@ -91,8 +91,6 @@
       ],
       "category": "주연",
       "sourceFacts": "2199에서 온 16세, 172cm, 갈색 머리/눈. Maria의 아들, Ian·Shale·Bex의 형제.",
-      "productionDesign": "슬림한 긴 얼굴, 짙은 갈색 웨이브 머리. Michael보다 키가 크고 성숙하되 성인처럼 그리지 않는다.",
-      "wardrobe": "원래 미색 미래 점프수트. 1999에서는 빌린 카고바지와 Hootie 티셔츠 등. EGG와 무제 sumbook.",
       "actingAndRestrictions": "호기심 많고 개방적. 질병 시 창백함·피로·땀을 적용하되 얼굴 구조 유지. 7장73kg와33장68kg 기록은 시점 변화로 보존.",
       "evidenceChapters": [
         1,
@@ -141,7 +139,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "슬림한 긴 얼굴, 짙은 갈색 웨이브 머리. Michael보다 키가 크고 성숙하되 성인처럼 그리지 않는다.",
+      "wardrobe": "원래 미색 미래 점프수트. 1999에서는 빌린 카고바지와 Hootie 티셔츠 등. EGG와 무제 sumbook."
     },
     {
       "id": "gibby",
@@ -152,8 +152,6 @@
       ],
       "category": "주연",
       "sourceFacts": "1999 / 16세. Michael의 베이비시터·친구. Beejee의 여동생. 미래에 알려진 Elizabeth Gibson과 동일 인물.",
-      "productionDesign": "기존 마스터의 짙은 곱슬머리·갈색 눈·중간 피부톤. Michael의 어머니와 머리 모양을 혼동하지 않는다.",
-      "wardrobe": "체크 셔츠·밝은 티·청바지 기본. 장면 원문의 University of Delaware 티 우선. 빨간 Corolla Eloise 열쇠·문고본.",
       "actingAndRestrictions": "냉소·다정함·보호자 말투·당황을 구분. 과도하게 성인화하지 않는다. 미래의 업적은 1999 복장에 섞지 않는다.",
       "evidenceChapters": [
         2,
@@ -198,7 +196,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "기존 마스터의 짙은 곱슬머리·갈색 눈·중간 피부톤. Michael의 어머니와 머리 모양을 혼동하지 않는다.",
+      "wardrobe": "체크 셔츠·밝은 티·청바지 기본. 장면 원문의 University of Delaware 티 우선. 빨간 Corolla Eloise 열쇠·문고본."
     },
     {
       "id": "rosario",
@@ -210,8 +210,6 @@
       ],
       "category": "가족",
       "sourceFacts": "Michael의 어머니. 여러 일을 하며 아들을 돌본다. 정확한 나이·이름은 확보 근거로 확정하지 않음.",
-      "productionDesign": "짙은 머리 낮은 포니테일, 피곤하지만 따뜻한 눈. 기존 마스터의 얼굴과 피부톤 유지.",
-      "wardrobe": "꽃무늬 블라우스·자주색 카디건·바지. 퇴근/집안/슬픔 장면 구분.",
       "actingAndRestrictions": "17장 이전 수건을 감은 젖은 머리, 이후 풀린 머리·붉은 눈 등 원문 시점 우선. 피로를 노년으로 바꾸지 않는다.",
       "evidenceChapters": [
         1,
@@ -252,7 +250,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "짙은 머리 낮은 포니테일, 피곤하지만 따뜻한 눈. 기존 마스터의 얼굴과 피부톤 유지.",
+      "wardrobe": "꽃무늬 블라우스·자주색 카디건·바지. 퇴근/집안/슬픔 장면 구분."
     },
     {
       "id": "mosley",
@@ -262,8 +262,6 @@
       ],
       "category": "주요 조연",
       "sourceFacts": "Fox Run 관리인. Michael과 친밀. 이후 사망 소식과 회상·녹음으로 나타남.",
-      "productionDesign": "회색 짧은 머리·콧수염, 주름진 따뜻한 얼굴, 갈색 피부. 기존 마스터 기준.",
-      "wardrobe": "페인트 묻은 회색 작업복. 병가 날 Wilmington Blue Rocks 티와 청바지.",
       "actingAndRestrictions": "팔·어깨 통증은 해당 시점만. 사망 뒤 현재 장면에 살아 있는 인물로 배치하지 않고 회상/녹음 명시.",
       "evidenceChapters": [
         1,
@@ -306,7 +304,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "회색 짧은 머리·콧수염, 주름진 따뜻한 얼굴, 갈색 피부. 기존 마스터 기준.",
+      "wardrobe": "페인트 묻은 회색 작업복. 병가 날 Wilmington Blue Rocks 티와 청바지."
     },
     {
       "id": "beejee",
@@ -316,8 +316,6 @@
       ],
       "category": "가족",
       "sourceFacts": "Gibby의 19세 오빠. 독립한 아파트와 공구, 낡은 옷이 관련됨.",
-      "productionDesign": "짧은 짙은 머리, 넓은 어깨·큰 근육질 체형. 기존 마스터의 피부색 유지.",
-      "wardrobe": "짙은 큰 티셔츠·올리브 카고바지. 빌려준 옷과 본인 착장을 구분.",
       "actingAndRestrictions": "무심함·거친 분노. 마른 Ridge·Michael과 체형 구분. Sabio 형제 얼굴로 재사용 금지.",
       "evidenceChapters": [
         1,
@@ -355,7 +353,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "짧은 짙은 머리, 넓은 어깨·큰 근육질 체형. 기존 마스터의 피부색 유지.",
+      "wardrobe": "짙은 큰 티셔츠·올리브 카고바지. 빌려준 옷과 본인 착장을 구분."
     },
     {
       "id": "paige",
@@ -365,8 +365,6 @@
       ],
       "category": "주요 조연",
       "sourceFacts": "Michael과 같은 새 학기 7학년. Teresa의 여동생. 학생회 활동.",
-      "productionDesign": "마스터의 밝은 갈색 긴 머리·큰 미소. 정확한 나이와 눈 색은 미확정; Michael 또래로 표현.",
-      "wardrobe": "17장 Phillies 캡. 마스터의 꽃무늬 밝은 티는 제작 선택이며 장면 복장과 충돌 시 원문 우선.",
       "actingAndRestrictions": "열린 자세·밝은 미소. Teresa와 나이 차이 유지. Gibby의 곱슬머리를 복사하지 않는다.",
       "evidenceChapters": [
         17,
@@ -388,7 +386,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "마스터의 밝은 갈색 긴 머리·큰 미소. 정확한 나이와 눈 색은 미확정; Michael 또래로 표현.",
+      "wardrobe": "17장 Phillies 캡. 마스터의 꽃무늬 밝은 티는 제작 선택이며 장면 복장과 충돌 시 원문 우선."
     },
     {
       "id": "teresa",
@@ -398,15 +398,15 @@
       ],
       "category": "조연",
       "sourceFacts": "Gibby 또래의 빨간 머리 소녀. Paige의 언니. Red Knot 연극부, Gibby와 대수 수업.",
-      "productionDesign": "미확정 신규 디자인: 적갈색 직모 어깨 길이, Paige보다 키 큰 10대. 원문은 redhead만 확정.",
-      "wardrobe": "1999 캐주얼, 차분한 청록 티와 청바지를 임시 제작 고정.",
       "actingAndRestrictions": "장난스러운 눈썹·혀 내밀기·허리에 손. 차가운 악역으로 단정하지 않는다.",
       "evidenceChapters": [
         17
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "teresa"
+      "audioPersonaId": "teresa",
+      "productionDesign": "미확정 신규 디자인: 적갈색 직모 어깨 길이, Paige보다 키 큰 10대. 원문은 redhead만 확정.",
+      "wardrobe": "1999 캐주얼, 차분한 청록 티와 청바지를 임시 제작 고정."
     },
     {
       "id": "jamar",
@@ -416,8 +416,6 @@
       ],
       "category": "조연",
       "sourceFacts": "프린스 형제의 맏형. 농구를 하며 Michael을 초대한다.",
-      "productionDesign": "신규 제작 고정: 가장 큰 키·넓은 어깨·짧은 검은 머리·따뜻한 큰 미소. 정확한 나이/키 미확정.",
-      "wardrobe": "1999 농구복, 짙은 빨강 상의로 형제 구별.",
       "actingAndRestrictions": "친근한 자세. 이후 누명 언급을 실제 범죄 사실로 묘사하지 않는다.",
       "evidenceChapters": [
         1,
@@ -428,7 +426,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "jamar"
+      "audioPersonaId": "jamar",
+      "productionDesign": "신규 제작 고정: 가장 큰 키·넓은 어깨·짧은 검은 머리·따뜻한 큰 미소. 정확한 나이/키 미확정.",
+      "wardrobe": "1999 농구복, 짙은 빨강 상의로 형제 구별."
     },
     {
       "id": "elijah",
@@ -438,8 +438,6 @@
       ],
       "category": "조연",
       "sourceFacts": "Michael과 같은 나이. 농구공을 들고 다니며 Jordans를 칭찬.",
-      "productionDesign": "신규 제작 고정: Jamar보다 작고 Darius보다 큰 체격, 짧은 곱슬머리.",
-      "wardrobe": "회청색 농구 티, 농구공.",
       "actingAndRestrictions": "활발하고 악의 없는 웃음. Michael과 동일 얼굴 금지.",
       "evidenceChapters": [
         1,
@@ -447,7 +445,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "elijah"
+      "audioPersonaId": "elijah",
+      "productionDesign": "신규 제작 고정: Jamar보다 작고 Darius보다 큰 체격, 짧은 곱슬머리.",
+      "wardrobe": "회청색 농구 티, 농구공."
     },
     {
       "id": "darius",
@@ -457,8 +457,6 @@
       ],
       "category": "조연",
       "sourceFacts": "막내. Michael보다 네 살 어림. 작은 체격.",
-      "productionDesign": "신규 제작 고정: 형제 중 가장 작고 가느다란 몸, 짧은 머리.",
-      "wardrobe": "머스터드 티·반바지.",
       "actingAndRestrictions": "말없이 관찰, Jamar 뒤를 따름. 10대 큰 형 체형 금지.",
       "evidenceChapters": [
         1,
@@ -466,7 +464,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "darius"
+      "audioPersonaId": "darius",
+      "productionDesign": "신규 제작 고정: 형제 중 가장 작고 가느다란 몸, 짧은 머리.",
+      "wardrobe": "머스터드 티·반바지."
     },
     {
       "id": "maria",
@@ -477,8 +477,6 @@
       ],
       "category": "미래 가족",
       "sourceFacts": "2199 / 52세,162cm,갈색 눈/머리. Chief STS, 네 자녀의 어머니.",
-      "productionDesign": "후기 Sabio 전용 bible 우선: 둥근 안경, 회색 섞인 낮은 번.",
-      "wardrobe": "흰 가운·차콜 터틀넥.",
       "actingAndRestrictions": "과학자의 통제와 어머니의 불안을 함께 표현. 초기 9인 시트보다 후기 가족 기준 우선. 체중은 시점별70/71kg 등 변동 기록 유지.",
       "evidenceChapters": [
         4,
@@ -508,7 +506,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "후기 Sabio 전용 bible 우선: 둥근 안경, 회색 섞인 낮은 번.",
+      "wardrobe": "흰 가운·차콜 터틀넥."
     },
     {
       "id": "ian",
@@ -519,8 +519,6 @@
       ],
       "category": "미래 가족",
       "sourceFacts": "18세,182cm,갈색 눈/머리. 맏형.",
-      "productionDesign": "후기 bible: 짧은 옆가르마, 가장 큰 키.",
-      "wardrobe": "청록색 연구복.",
       "actingAndRestrictions": "중재·책임감·기술 작업. Shale과 키가 비슷하므로 색과 헤어로 구분.",
       "evidenceChapters": [
         7,
@@ -541,7 +539,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "후기 bible: 짧은 옆가르마, 가장 큰 키.",
+      "wardrobe": "청록색 연구복."
     },
     {
       "id": "shale",
@@ -552,8 +552,6 @@
       ],
       "category": "미래 가족",
       "sourceFacts": "17세,181cm,파란 눈·갈색 머리. GSC 배지를 자랑.",
-      "productionDesign": "후기 bible: 질감 있는 짧은 머리.",
-      "wardrobe": "녹슨 주황 연구복·해당 시점 배지.",
       "actingAndRestrictions": "경쟁심·도발과 가족에 대한 걱정 구분. Beejee 얼굴 복사 금지.",
       "evidenceChapters": [
         7,
@@ -574,7 +572,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "후기 bible: 질감 있는 짧은 머리.",
+      "wardrobe": "녹슨 주황 연구복·해당 시점 배지."
     },
     {
       "id": "bex",
@@ -585,8 +585,6 @@
       ],
       "category": "미래 가족",
       "sourceFacts": "14세,148cm,파란 눈·갈색 머리. 기록상 nonbinary.",
-      "productionDesign": "후기 bible: 턱선 길이 보브, 가족 중 작은 체구.",
-      "wardrobe": "라벤더 연구복.",
       "actingAndRestrictions": "정확성 집착·기민한 관찰. 임의 성별 고정 금지. 초기 시트의 흰 점프수트와 충돌 시 후기 bible 우선.",
       "evidenceChapters": [
         7,
@@ -607,7 +605,9 @@
         "reviewed": "2026-11-22",
         "promptManifest": "character-sheets.json",
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
-      }
+      },
+      "productionDesign": "후기 bible: 턱선 길이 보브, 가족 중 작은 체구.",
+      "wardrobe": "라벤더 연구복."
     },
     {
       "id": "gibson-father",
@@ -618,8 +618,6 @@
       ],
       "category": "가족/언급",
       "sourceFacts": "Gibby·Beejee의 아버지. Rosario의 전 직장 상사.",
-      "productionDesign": "미확정 신규 제작: 중년, 짧은 짙은 머리·각진 얼굴. 가족 닮음은 절제.",
-      "wardrobe": "평범한 근무복/집안복, 원문 시점 확인 후 선택.",
       "actingAndRestrictions": "본문의 무관심·갈등만 표현. 출처 없는 인종·나이·직업 세부를 사실로 확정하지 않는다.",
       "evidenceChapters": [
         1,
@@ -629,7 +627,9 @@
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "gibson-father"
+      "audioPersonaId": "gibson-father",
+      "productionDesign": "미확정 신규 제작: 중년, 짧은 짙은 머리·각진 얼굴. 가족 닮음은 절제.",
+      "wardrobe": "평범한 근무복/집안복, 원문 시점 확인 후 선택."
     },
     {
       "id": "michael-father",
@@ -640,8 +640,6 @@
       ],
       "category": "회상/언급",
       "sourceFacts": "Michael이 유치원에 가기 전 가족을 떠남. 농구를 했다는 언급.",
-      "productionDesign": "미확정. Michael의 성인 버전을 자동으로 정답 취급하지 않는다.",
-      "wardrobe": "회상 시 시대 확인.",
       "actingAndRestrictions": "원문에 없는 현재 재회 장면 생성 금지. 검색 후보 father는 다른 아버지도 포함하므로 근거 재확인 필수.",
       "evidenceChapters": [
         1,
@@ -652,7 +650,9 @@
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "michael-father"
+      "audioPersonaId": "michael-father",
+      "productionDesign": "미확정. Michael의 성인 버전을 자동으로 정답 취급하지 않는다.",
+      "wardrobe": "회상 시 시대 확인."
     },
     {
       "id": "gibby-mother",
@@ -662,8 +662,6 @@
       ],
       "category": "회상/언급",
       "sourceFacts": "Gibby의 가족을 떠났다는 언급.",
-      "productionDesign": "외형 미확정.",
-      "wardrobe": "장면 승인 전 미정.",
       "actingAndRestrictions": "Rosario 어머니와 합치지 않는다. mother 자동 검색은 인물 확정 근거가 아니다.",
       "evidenceChapters": [
         1,
@@ -687,7 +685,9 @@
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "gibby-mother"
+      "audioPersonaId": "gibby-mother",
+      "productionDesign": "외형 미확정.",
+      "wardrobe": "장면 승인 전 미정."
     },
     {
       "id": "ship",
@@ -697,8 +697,6 @@
       ],
       "category": "조연",
       "sourceFacts": "Fox Run 아파트 관리자. Mosley의 상사 관계 및 사후 정리 언급.",
-      "productionDesign": "미확정 신규 제작: 중년 관리자, 짧은 머리·사각 안경으로 Mosley와 구분.",
-      "wardrobe": "베이지 셔츠·짙은 바지·열쇠고리는 임시 제작 선택.",
       "actingAndRestrictions": "Mosley의 회색 콧수염·작업복 복사 금지.",
       "evidenceChapters": [
         3,
@@ -711,7 +709,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "ship"
+      "audioPersonaId": "ship",
+      "productionDesign": "미확정 신규 제작: 중년 관리자, 짧은 머리·사각 안경으로 Mosley와 구분.",
+      "wardrobe": "베이지 셔츠·짙은 바지·열쇠고리는 임시 제작 선택."
     },
     {
       "id": "colby",
@@ -722,15 +722,15 @@
       ],
       "category": "조연",
       "sourceFacts": "Waldenbooks 직원, 명찰로 이름 확인.",
-      "productionDesign": "미확정 신규 제작: 젊은 성인, 짧은 갈색 머리·좁은 얼굴.",
-      "wardrobe": "서점 근무 셔츠·COLBY 명찰.",
       "actingAndRestrictions": "눈썹을 올려 Ridge를 의아하게 봄. 주연처럼 반복 배치하지 않는다.",
       "evidenceChapters": [
         17
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "colby"
+      "audioPersonaId": "colby",
+      "productionDesign": "미확정 신규 제작: 젊은 성인, 짧은 갈색 머리·좁은 얼굴.",
+      "wardrobe": "서점 근무 셔츠·COLBY 명찰."
     },
     {
       "id": "jameson",
@@ -740,8 +740,6 @@
       ],
       "category": "미래 과학자",
       "sourceFacts": "Johns Hopkins 역학자·GSC 자문. 시간 여행 감염 위험 논의.",
-      "productionDesign": "미확정 신규 제작: 나이 든 과학자, 가는 회색 머리·각진 안경.",
-      "wardrobe": "진회색 재킷.",
       "actingAndRestrictions": "위험을 경고하는 전문가. 악역으로 단정 금지.",
       "evidenceChapters": [
         7,
@@ -749,7 +747,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "jameson"
+      "audioPersonaId": "jameson",
+      "productionDesign": "미확정 신규 제작: 나이 든 과학자, 가는 회색 머리·각진 안경.",
+      "wardrobe": "진회색 재킷."
     },
     {
       "id": "botha",
@@ -759,15 +759,15 @@
       ],
       "category": "미래 과학자",
       "sourceFacts": "Stanford 물리학자. 위험과 윤리 문제 제기.",
-      "productionDesign": "미확정 신규 제작: 성인, 짧은 웨이브 머리·둥근 안경.",
-      "wardrobe": "짙은 자주 재킷.",
       "actingAndRestrictions": "단호한 토론 자세. 외형은 원문 사실이 아님.",
       "evidenceChapters": [
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "botha"
+      "audioPersonaId": "botha",
+      "productionDesign": "미확정 신규 제작: 성인, 짧은 웨이브 머리·둥근 안경.",
+      "wardrobe": "짙은 자주 재킷."
     },
     {
       "id": "robinson",
@@ -777,15 +777,15 @@
       ],
       "category": "미래 과학자",
       "sourceFacts": "MIT 물리학자. 역사 개입에 반대.",
-      "productionDesign": "미확정 신규 제작: 성인, 짧은 옆가르마·긴 얼굴.",
-      "wardrobe": "남색 재킷.",
       "actingAndRestrictions": "논쟁적 발언과 인물의 도덕적 평가를 혼동하지 않는다.",
       "evidenceChapters": [
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "robinson"
+      "audioPersonaId": "robinson",
+      "productionDesign": "미확정 신규 제작: 성인, 짧은 옆가르마·긴 얼굴.",
+      "wardrobe": "남색 재킷."
     },
     {
       "id": "adebayo",
@@ -795,15 +795,15 @@
       ],
       "category": "미래 과학자",
       "sourceFacts": "Caltech 물리학자. AI 연구 대안 제시.",
-      "productionDesign": "미확정 신규 제작: 성인, 묶은 머리·넓은 이마. 인종은 이름만으로 추정하지 않는다.",
-      "wardrobe": "차분한 녹색 재킷.",
       "actingAndRestrictions": "설명하는 손짓. 외형은 제작 선택.",
       "evidenceChapters": [
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "adebayo"
+      "audioPersonaId": "adebayo",
+      "productionDesign": "미확정 신규 제작: 성인, 묶은 머리·넓은 이마. 인종은 이름만으로 추정하지 않는다.",
+      "wardrobe": "차분한 녹색 재킷."
     },
     {
       "id": "medina",
@@ -814,15 +814,15 @@
       ],
       "category": "방송 진행자",
       "sourceFacts": "2199 NPR Doubletalk Globalcast 진행자.",
-      "productionDesign": "미확정 신규 제작: 성인, 단정한 턱선 머리.",
-      "wardrobe": "청회색 방송 의상.",
       "actingAndRestrictions": "중립적인 진행 표정. 학자들과 구분.",
       "evidenceChapters": [
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "medina"
+      "audioPersonaId": "medina",
+      "productionDesign": "미확정 신규 제작: 성인, 단정한 턱선 머리.",
+      "wardrobe": "청회색 방송 의상."
     },
     {
       "id": "adderlaine",
@@ -833,8 +833,6 @@
       ],
       "category": "미래/언급",
       "sourceFacts": "Ridge가 별 관찰을 제안한 소녀. 이름 철자 두 형태가 자료에 존재.",
-      "productionDesign": "외형·정확한 나이 미확정. 신규 제작 시 10대 또래로만 임시 설정.",
-      "wardrobe": "미정.",
       "actingAndRestrictions": "철자 충돌을 숨기지 않는다. 원문 확인 전 두 인물로 분리 금지.",
       "evidenceChapters": [
         7,
@@ -842,7 +840,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "adderlaine"
+      "audioPersonaId": "adderlaine",
+      "productionDesign": "외형·정확한 나이 미확정. 신규 제작 시 10대 또래로만 임시 설정.",
+      "wardrobe": "미정."
     },
     {
       "id": "hammond",
@@ -852,15 +852,15 @@
       ],
       "category": "미래/언급",
       "sourceFacts": "Shale의 배지를 부러워했다는 대화 속 인물.",
-      "productionDesign": "외형·나이 미확정.",
-      "wardrobe": "미정.",
       "actingAndRestrictions": "새 시트 제작 전 실제 장면 필요성 확인.",
       "evidenceChapters": [
         7
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "hammond"
+      "audioPersonaId": "hammond",
+      "productionDesign": "외형·나이 미확정.",
+      "wardrobe": "미정."
     },
     {
       "id": "conklin",
@@ -870,15 +870,15 @@
       ],
       "category": "철학자/언급",
       "sourceFacts": "여성 철학자. 부정적 결과에 대응하는 긍정적 결과도 고려하는 원칙의 출처.",
-      "productionDesign": "외형 미확정.",
-      "wardrobe": "미정.",
       "actingAndRestrictions": "현재 대화에 실물로 배치하지 않는다.",
       "evidenceChapters": [
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "conklin"
+      "audioPersonaId": "conklin",
+      "productionDesign": "외형 미확정.",
+      "wardrobe": "미정."
     },
     {
       "id": "schnurr",
@@ -888,15 +888,15 @@
       ],
       "category": "교사/회상",
       "sourceFacts": "Michael의 과거 학교 교사, 책 정리 언급.",
-      "productionDesign": "외형 미확정.",
-      "wardrobe": "교실 회상에 맞춰 신규 설정.",
       "actingAndRestrictions": "Fajardo와 다른 인물.",
       "evidenceChapters": [
         20
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "schnurr"
+      "audioPersonaId": "schnurr",
+      "productionDesign": "외형 미확정.",
+      "wardrobe": "교실 회상에 맞춰 신규 설정."
     },
     {
       "id": "fajardo",
@@ -906,15 +906,15 @@
       ],
       "category": "교사/회상",
       "sourceFacts": "Michael이 종이 나누기를 도왔던 교사.",
-      "productionDesign": "외형 미확정.",
-      "wardrobe": "교실 회상에 맞춰 신규 설정.",
       "actingAndRestrictions": "Schnurr와 얼굴·의상 구분.",
       "evidenceChapters": [
         20
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "fajardo"
+      "audioPersonaId": "fajardo",
+      "productionDesign": "외형 미확정.",
+      "wardrobe": "교실 회상에 맞춰 신규 설정."
     },
     {
       "id": "mosley-mother",
@@ -925,8 +925,6 @@
       ],
       "category": "회상/언급",
       "sourceFacts": "식당에서 일하며 돈을 모아 아들에게 준 어머니.",
-      "productionDesign": "시대·외형 미확정.",
-      "wardrobe": "회상 시 시대 고증 필요.",
       "actingAndRestrictions": "Rosario와 같은 인물로 표현하지 않는다.",
       "evidenceChapters": [
         11,
@@ -934,7 +932,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "mosley-mother"
+      "audioPersonaId": "mosley-mother",
+      "productionDesign": "시대·외형 미확정.",
+      "wardrobe": "회상 시 시대 고증 필요."
     },
     {
       "id": "mosley-father",
@@ -944,8 +944,6 @@
       ],
       "category": "회상/언급",
       "sourceFacts": "Mosley가 좋지 않은 아버지였다고 회고.",
-      "productionDesign": "외형 미확정.",
-      "wardrobe": "미정.",
       "actingAndRestrictions": "원문 없는 학대 행동을 구체적으로 창작하지 않는다.",
       "evidenceChapters": [
         3,
@@ -960,7 +958,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "mosley-father"
+      "audioPersonaId": "mosley-father",
+      "productionDesign": "외형 미확정.",
+      "wardrobe": "미정."
     },
     {
       "id": "tuxedo",
@@ -970,8 +970,6 @@
       ],
       "category": "동물",
       "sourceFacts": "고양이. Michael이 Clipper와 함께 떠올리는 이름.",
-      "productionDesign": "외형은 원문 재확인 전 미확정. 이름만으로 털무늬 확정 금지.",
-      "wardrobe": "없음.",
       "actingAndRestrictions": "Clipper와 같은 개체로 합치지 않는다.",
       "evidenceChapters": [
         1,
@@ -979,7 +977,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "tuxedo"
+      "audioPersonaId": "tuxedo",
+      "productionDesign": "외형은 원문 재확인 전 미확정. 이름만으로 털무늬 확정 금지.",
+      "wardrobe": "없음."
     },
     {
       "id": "clipper",
@@ -989,8 +989,6 @@
       ],
       "category": "동물",
       "sourceFacts": "Ridge와 벤치에 있던 작은 고양이.",
-      "productionDesign": "작은 고양이 체구. 털색·눈색 미확정.",
-      "wardrobe": "없음.",
       "actingAndRestrictions": "두 고양이 구분 시트 필요.",
       "evidenceChapters": [
         5,
@@ -999,7 +997,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "clipper"
+      "audioPersonaId": "clipper",
+      "productionDesign": "작은 고양이 체구. 털색·눈색 미확정.",
+      "wardrobe": "없음."
     },
     {
       "id": "ved",
@@ -1010,8 +1010,6 @@
       ],
       "category": "음성 시스템",
       "sourceFacts": "통계·가상 시나리오 분석 시스템. Maria와 보안 부스에서 대화.",
-      "productionDesign": "인간 얼굴 없음. UI/스피커로만 표현하는 제작 기준.",
-      "wardrobe": "장치/인터페이스.",
       "actingAndRestrictions": "실제 사람·로봇 몸을 임의 추가하지 않는다.",
       "evidenceChapters": [
         27,
@@ -1019,7 +1017,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "ved"
+      "audioPersonaId": "ved",
+      "productionDesign": "인간 얼굴 없음. UI/스피커로만 표현하는 제작 기준.",
+      "wardrobe": "장치/인터페이스."
     },
     {
       "id": "holosecurity",
@@ -1030,15 +1030,15 @@
       ],
       "category": "음성 시스템",
       "sourceFacts": "연구실 자동 보안 시스템. 정지·이송 명령 처리.",
-      "productionDesign": "사람 외형 없음. VED와 별도 인터페이스 색으로 구분.",
-      "wardrobe": "보안 패널.",
       "actingAndRestrictions": "권한·명령 상태는 장면에 맞춤.",
       "evidenceChapters": [
         7
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "holosecurity"
+      "audioPersonaId": "holosecurity",
+      "productionDesign": "사람 외형 없음. VED와 별도 인터페이스 색으로 구분.",
+      "wardrobe": "보안 패널."
     },
     {
       "id": "holohost",
@@ -1048,15 +1048,15 @@
       ],
       "category": "방송 시스템",
       "sourceFacts": "방송의 관련 보도 보기 안내.",
-      "productionDesign": "별도 인간 얼굴 미확정, 화면 안내로 처리.",
-      "wardrobe": "방송 UI.",
       "actingAndRestrictions": "Medina와 동일 인물로 합치지 않는다.",
       "evidenceChapters": [
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "holohost"
+      "audioPersonaId": "holohost",
+      "productionDesign": "별도 인간 얼굴 미확정, 화면 안내로 처리.",
+      "wardrobe": "방송 UI."
     },
     {
       "id": "piercing-girl",
@@ -1066,15 +1066,15 @@
       ],
       "category": "이름 없는 역할",
       "sourceFacts": "16장 귀를 뚫고 큰 소리를 내는 소녀.",
-      "productionDesign": "연령·외형 미확정. 10대 고객이라는 임시 제작 선택.",
-      "wardrobe": "1999 캐주얼.",
       "actingAndRestrictions": "Paige·Teresa와 다른 인물.",
       "evidenceChapters": [
         16
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "piercing-girl"
+      "audioPersonaId": "piercing-girl",
+      "productionDesign": "연령·외형 미확정. 10대 고객이라는 임시 제작 선택.",
+      "wardrobe": "1999 캐주얼."
     },
     {
       "id": "piercing-worker",
@@ -1084,8 +1084,6 @@
       ],
       "category": "이름 없는 역할",
       "sourceFacts": "16장 피어싱 도구를 고정하고 시술.",
-      "productionDesign": "성인 직원, 외형 미확정.",
-      "wardrobe": "매장 유니폼은 신규 제작 설정.",
       "actingAndRestrictions": "Colby와 다른 인물.",
       "evidenceChapters": [
         16,
@@ -1093,7 +1091,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "piercing-worker"
+      "audioPersonaId": "piercing-worker",
+      "productionDesign": "성인 직원, 외형 미확정.",
+      "wardrobe": "매장 유니폼은 신규 제작 설정."
     },
     {
       "id": "classmates",
@@ -1103,8 +1103,6 @@
       ],
       "category": "집단/회상",
       "sourceFacts": "Michael의 발표 때 웃거나 놀렸던 학생들.",
-      "productionDesign": "다수의 서로 다른 11세 무렵 학생.",
-      "wardrobe": "당시 학교 캐주얼.",
       "actingAndRestrictions": "Prince 형제나 Paige를 가해자로 임의 배치 금지.",
       "evidenceChapters": [
         16,
@@ -1113,7 +1111,9 @@
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "classmates"
+      "audioPersonaId": "classmates",
+      "productionDesign": "다수의 서로 다른 11세 무렵 학생.",
+      "wardrobe": "당시 학교 캐주얼."
     },
     {
       "id": "inventors",
@@ -1124,15 +1124,15 @@
       ],
       "category": "발명가/언급",
       "sourceFacts": "HUCK을 발명한 두 여성.",
-      "productionDesign": "두 명 모두 외형·나이 미확정.",
-      "wardrobe": "미정.",
       "actingAndRestrictions": "두 이름을 한 사람으로 합치지 않음. 개별 시트 전 추가 근거 필요.",
       "evidenceChapters": [
         18
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
       "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "inventors"
+      "audioPersonaId": "inventors",
+      "productionDesign": "두 명 모두 외형·나이 미확정.",
+      "wardrobe": "미정."
     }
   ],
   "audioReference": "voice-cast.json"
