@@ -1,0 +1,191 @@
+{
+  "id": "ch01-b002",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    378,
+    250
+  ],
+  "source": "ch01-b002-approved-v1.png",
+  "qualityLimitation": "Requested maximum native resolution; returned1536x1024. No upscaling.",
+  "scenes": [
+    {
+      "id": "ch01-b002-01",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s35",
+      "lastSentenceId": "ch1-s36",
+      "beforeSentenceId": "ch1-s35",
+      "image": "assets/scenes/ch01-b002/01.png",
+      "alt": "Beejee teases Michael",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-02",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s37",
+      "lastSentenceId": "ch1-s37",
+      "beforeSentenceId": "ch1-s37",
+      "image": "assets/scenes/ch01-b002/02.png",
+      "alt": "Beejee stacks potatoes",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-03",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s38",
+      "lastSentenceId": "ch1-s39",
+      "beforeSentenceId": "ch1-s38",
+      "image": "assets/scenes/ch01-b002/03.png",
+      "alt": "Beejee snickers about flowers",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-04",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s40",
+      "lastSentenceId": "ch1-s41",
+      "beforeSentenceId": "ch1-s40",
+      "image": "assets/scenes/ch01-b002/04.png",
+      "alt": "Michael cannot answer",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-05",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s42",
+      "lastSentenceId": "ch1-s42",
+      "beforeSentenceId": "ch1-s42",
+      "image": "assets/scenes/ch01-b002/05.png",
+      "alt": "Michael presses his thumb into his palm",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-06",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s43",
+      "lastSentenceId": "ch1-s44",
+      "beforeSentenceId": "ch1-s43",
+      "image": "assets/scenes/ch01-b002/06.png",
+      "alt": "Michael waits for a chance to leave",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-07",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s45",
+      "lastSentenceId": "ch1-s45",
+      "beforeSentenceId": "ch1-s45",
+      "image": "assets/scenes/ch01-b002/07.png",
+      "alt": "Jamar approaches with candy and receipt",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-08",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s46",
+      "lastSentenceId": "ch1-s46",
+      "beforeSentenceId": "ch1-s46",
+      "image": "assets/scenes/ch01-b002/08.png",
+      "alt": "Beejee becomes serious",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-09",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s47",
+      "lastSentenceId": "ch1-s49",
+      "beforeSentenceId": "ch1-s47",
+      "image": "assets/scenes/ch01-b002/09.png",
+      "alt": "Jamar offers to walk with Michael",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-10",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s50",
+      "lastSentenceId": "ch1-s51",
+      "beforeSentenceId": "ch1-s50",
+      "image": "assets/scenes/ch01-b002/10.png",
+      "alt": "Michael wonders why Jamar is helping",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-11",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s52",
+      "lastSentenceId": "ch1-s53",
+      "beforeSentenceId": "ch1-s52",
+      "image": "assets/scenes/ch01-b002/11.png",
+      "alt": "Michael regrets meeting anyone this early",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-12",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s54",
+      "lastSentenceId": "ch1-s55",
+      "beforeSentenceId": "ch1-s54",
+      "image": "assets/scenes/ch01-b002/12.png",
+      "alt": "Michael shifts from foot to foot",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-13",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s56",
+      "lastSentenceId": "ch1-s56",
+      "beforeSentenceId": "ch1-s56",
+      "image": "assets/scenes/ch01-b002/13.png",
+      "alt": "Beejee approaches holding a potato",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-14",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s57",
+      "lastSentenceId": "ch1-s58",
+      "beforeSentenceId": "ch1-s57",
+      "image": "assets/scenes/ch01-b002/14.png",
+      "alt": "Beejee questions payment",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-15",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s59",
+      "lastSentenceId": "ch1-s60",
+      "beforeSentenceId": "ch1-s59",
+      "image": "assets/scenes/ch01-b002/15.png",
+      "alt": "Jamar raises his chin and answers",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b002-16",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s61",
+      "lastSentenceId": "ch1-s61",
+      "beforeSentenceId": "ch1-s61",
+      "image": "assets/scenes/ch01-b002/16.png",
+      "alt": "Jamar challenges the accusation",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    }
+  ]
+}

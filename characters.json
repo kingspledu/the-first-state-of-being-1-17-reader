@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-22.1",
+  "version": "2026-11-22.2",
   "purpose": "Compatibility export; edit consistency/registry.json only",
   "scope": "1–39장 중 확보된 1–12,15 일부,16–39 조사. 13–14 미확보;15 완전성 미확인. 전체 인물 최종 누락 없음 보장 불가.",
   "authority": [
@@ -415,7 +415,7 @@
         "Jamar"
       ],
       "category": "조연",
-      "sourceFacts": "프린스 형제의 맏형. 농구를 하며 Michael을 초대한다.",
+      "sourceFacts": "16? ????. Prince ??? ??. ??? ?? Michael? ????. 1??? ?? ? ?? ???? ?? Michael? ?? ???.",
       "actingAndRestrictions": "친근한 자세. 이후 누명 언급을 실제 범죄 사실로 묘사하지 않는다.",
       "evidenceChapters": [
         1,
@@ -425,9 +425,18 @@
         37
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "sheetStatus": "?? ?? ????? ??",
       "audioPersonaId": "jamar",
-      "productionDesign": "신규 제작 고정: 가장 큰 키·넓은 어깨·짧은 검은 머리·따뜻한 큰 미소. 정확한 나이/키 미확정.",
+      "visualReference": {
+        "image": "assets/character-sheets/jamar-v1.png",
+        "original": "assets/character-sheets/jamar-v1.png",
+        "version": 1,
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "note": "?? ?? ??. Beejee?? ???16? ??, ??? ???. ?? ?? ??? ?? ??."
+      },
+      "productionDesign": "?? ?? ??: ? ?? ??? ???? ??, ?? ??, ?? ?? ????, ??? ??, ??? ??. ??? ??? ?? ??? ????.",
       "wardrobe": "1999 농구복, 짙은 빨강 상의로 형제 구별."
     },
     {

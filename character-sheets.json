@@ -156,6 +156,17 @@
         "status": "accepted",
         "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
       }
+    },
+    {
+      "id": "jamar",
+      "file": "assets/character-sheets/jamar-v1.png",
+      "original": "assets/character-sheets/jamar-v1.png",
+      "prompt": "Individual Jamar Prince16yo character sheet; tall lean darkskin short tightcurls burgundy plain jersey charcoalshorts.4fullbodyviews6expressions. Warm paper roundedink mutedpastels. Appearance is production choice.",
+      "reference": "new-design; original source context chapter1",
+      "review": {
+        "status": "accepted",
+        "limitations": "16??1? ?? ??. ????????? ?? ??.4??6?? ????."
+      }
     }
   ]
 }
