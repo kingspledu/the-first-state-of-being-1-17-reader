@@ -1,0 +1,192 @@
+{
+  "id": "ch04-b002",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch04-b002-approved-v1.png",
+  "qualityLimitation": "Native1536x1024, no upscaling",
+  "scenes": [
+    {
+      "id": "ch04-b002-01",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s31",
+      "lastSentenceId": "ch4-s31",
+      "beforeSentenceId": "ch4-s31",
+      "image": "assets/scenes/ch04-b002/01.png",
+      "alt": "Michael opens a fresh cat-food tin",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-02",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s32",
+      "lastSentenceId": "ch4-s33",
+      "beforeSentenceId": "ch4-s32",
+      "image": "assets/scenes/ch04-b002/02.png",
+      "alt": "Gibby says football does not seem his thing",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-03",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s34",
+      "lastSentenceId": "ch4-s36",
+      "beforeSentenceId": "ch4-s34",
+      "image": "assets/scenes/ch04-b002/03.png",
+      "alt": "Michael holds back a question",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-04",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s37",
+      "lastSentenceId": "ch4-s40",
+      "beforeSentenceId": "ch4-s37",
+      "image": "assets/scenes/ch04-b002/04.png",
+      "alt": "Michael places the tin and mentions his athletic father",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-05",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s41",
+      "lastSentenceId": "ch4-s42",
+      "beforeSentenceId": "ch4-s41",
+      "image": "assets/scenes/ch04-b002/05.png",
+      "alt": "Michael says his father played basketball",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-06",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s43",
+      "lastSentenceId": "ch4-s44",
+      "beforeSentenceId": "ch4-s43",
+      "image": "assets/scenes/ch04-b002/06.png",
+      "alt": "Gibby ties her hair with a blue scrunchie",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-07",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s45",
+      "lastSentenceId": "ch4-s46",
+      "beforeSentenceId": "ch4-s45",
+      "image": "assets/scenes/ch04-b002/07.png",
+      "alt": "Gibby asks why Michael wants to play",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-08",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s47",
+      "lastSentenceId": "ch4-s48",
+      "beforeSentenceId": "ch4-s47",
+      "image": "assets/scenes/ch04-b002/08.png",
+      "alt": "Michael shrugs as a squirrel crosses the path",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-09",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s49",
+      "lastSentenceId": "ch4-s50",
+      "beforeSentenceId": "ch4-s49",
+      "image": "assets/scenes/ch04-b002/09.png",
+      "alt": "Michael claims he does not know why",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-10",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s51",
+      "lastSentenceId": "ch4-s53",
+      "beforeSentenceId": "ch4-s51",
+      "image": "assets/scenes/ch04-b002/10.png",
+      "alt": "Michael hopes people might like him",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-11",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s54",
+      "lastSentenceId": "ch4-s56",
+      "beforeSentenceId": "ch4-s54",
+      "image": "assets/scenes/ch04-b002/11.png",
+      "alt": "Michael feels lonely",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-12",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s57",
+      "lastSentenceId": "ch4-s57",
+      "beforeSentenceId": "ch4-s57",
+      "image": "assets/scenes/ch04-b002/12.png",
+      "alt": "They finish replacing the cat food",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-13",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s58",
+      "lastSentenceId": "ch4-s59",
+      "beforeSentenceId": "ch4-s58",
+      "image": "assets/scenes/ch04-b002/13.png",
+      "alt": "They walk toward the dumpster with empty tins",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-14",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s60",
+      "lastSentenceId": "ch4-s62",
+      "beforeSentenceId": "ch4-s60",
+      "image": "assets/scenes/ch04-b002/14.png",
+      "alt": "Gibby notices someone ahead",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-15",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s63",
+      "lastSentenceId": "ch4-s64",
+      "beforeSentenceId": "ch4-s63",
+      "image": "assets/scenes/ch04-b002/15.png",
+      "alt": "Ridge stares at the dumpster with his nose in his elbow",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b002-16",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s65",
+      "lastSentenceId": "ch4-s74",
+      "beforeSentenceId": "ch4-s65",
+      "image": "assets/scenes/ch04-b002/16.png",
+      "alt": "Michael wants to turn away but Ridge notices them",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    }
+  ]
+}
