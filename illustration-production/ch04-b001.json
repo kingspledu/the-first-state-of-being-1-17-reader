@@ -1,0 +1,192 @@
+{
+  "id": "ch04-b001",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch04-b001-approved-v1.png",
+  "qualityLimitation": "Native1536x1024, no upscaling",
+  "scenes": [
+    {
+      "id": "ch04-b001-01",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s1",
+      "lastSentenceId": "ch4-s1",
+      "beforeSentenceId": "ch4-s1",
+      "image": "assets/scenes/ch04-b001/01.png",
+      "alt": "Michael and Gibby leave to feed cats",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-02",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s2",
+      "lastSentenceId": "ch4-s6",
+      "beforeSentenceId": "ch4-s2",
+      "image": "assets/scenes/ch04-b001/02.png",
+      "alt": "Michael worries about the rule against feeding cats",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-03",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s7",
+      "lastSentenceId": "ch4-s8",
+      "beforeSentenceId": "ch4-s7",
+      "image": "assets/scenes/ch04-b001/03.png",
+      "alt": "Michael thinks compassionately about stray cats",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-04",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s9",
+      "lastSentenceId": "ch4-s11",
+      "beforeSentenceId": "ch4-s9",
+      "image": "assets/scenes/ch04-b001/04.png",
+      "alt": "Michael cannot bear the thought of hungry cats",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-05",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s12",
+      "lastSentenceId": "ch4-s13",
+      "beforeSentenceId": "ch4-s12",
+      "image": "assets/scenes/ch04-b001/05.png",
+      "alt": "Michael offers simple cat food",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-06",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s14",
+      "lastSentenceId": "ch4-s15",
+      "beforeSentenceId": "ch4-s14",
+      "image": "assets/scenes/ch04-b001/06.png",
+      "alt": "Michael opens a pull-tab tin",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-07",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s16",
+      "lastSentenceId": "ch4-s17",
+      "beforeSentenceId": "ch4-s16",
+      "image": "assets/scenes/ch04-b001/07.png",
+      "alt": "They put fresh tins under the bushes",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-08",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s18",
+      "lastSentenceId": "ch4-s18",
+      "beforeSentenceId": "ch4-s18",
+      "image": "assets/scenes/ch04-b001/08.png",
+      "alt": "Michael gathers empty tins",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-09",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s19",
+      "lastSentenceId": "ch4-s19",
+      "beforeSentenceId": "ch4-s19",
+      "image": "assets/scenes/ch04-b001/09.png",
+      "alt": "Michael prepares to impress Gibby",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-10",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s20",
+      "lastSentenceId": "ch4-s21",
+      "beforeSentenceId": "ch4-s20",
+      "image": "assets/scenes/ch04-b001/10.png",
+      "alt": "Michael mentions trying sports",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-11",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s22",
+      "lastSentenceId": "ch4-s22",
+      "beforeSentenceId": "ch4-s22",
+      "image": "assets/scenes/ch04-b001/11.png",
+      "alt": "Gibby looks surprised",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-12",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s23",
+      "lastSentenceId": "ch4-s24",
+      "beforeSentenceId": "ch4-s23",
+      "image": "assets/scenes/ch04-b001/12.png",
+      "alt": "Michael retrieves an old empty tin",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-13",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s25",
+      "lastSentenceId": "ch4-s25",
+      "beforeSentenceId": "ch4-s25",
+      "image": "assets/scenes/ch04-b001/13.png",
+      "alt": "Michael drops the tin into the bag",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-14",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s26",
+      "lastSentenceId": "ch4-s28",
+      "beforeSentenceId": "ch4-s26",
+      "image": "assets/scenes/ch04-b001/14.png",
+      "alt": "Gibby questions football",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-15",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s29",
+      "lastSentenceId": "ch4-s29",
+      "beforeSentenceId": "ch4-s29",
+      "image": "assets/scenes/ch04-b001/15.png",
+      "alt": "Michael wipes his hands on his jeans",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b001-16",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s30",
+      "lastSentenceId": "ch4-s30",
+      "beforeSentenceId": "ch4-s30",
+      "image": "assets/scenes/ch04-b001/16.png",
+      "alt": "Michael asks whether she doubts his football ability",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    }
+  ]
+}
