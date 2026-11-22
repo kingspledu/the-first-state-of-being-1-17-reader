@@ -1,0 +1,192 @@
+{
+  "id": "ch04-b003",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch04-b003-approved-v1.png",
+  "qualityLimitation": "Native1536x1024, no upscaling",
+  "scenes": [
+    {
+      "id": "ch04-b003-01",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s75",
+      "lastSentenceId": "ch4-s76",
+      "beforeSentenceId": "ch4-s75",
+      "image": "assets/scenes/ch04-b003/01.png",
+      "alt": "Ridge awkwardly greets Michael and Gibby",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-02",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s77",
+      "lastSentenceId": "ch4-s78",
+      "beforeSentenceId": "ch4-s77",
+      "image": "assets/scenes/ch04-b003/02.png",
+      "alt": "Ridge speaks with an unfamiliar rhythm",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-03",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s79",
+      "lastSentenceId": "ch4-s80",
+      "beforeSentenceId": "ch4-s79",
+      "image": "assets/scenes/ch04-b003/03.png",
+      "alt": "Ridge asks about the dumpster",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-04",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s81",
+      "lastSentenceId": "ch4-s82",
+      "beforeSentenceId": "ch4-s81",
+      "image": "assets/scenes/ch04-b003/04.png",
+      "alt": "Gibby identifies the dumpster",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-05",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s83",
+      "lastSentenceId": "ch4-s83",
+      "beforeSentenceId": "ch4-s83",
+      "image": "assets/scenes/ch04-b003/05.png",
+      "alt": "Ridge repeats the unfamiliar word",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-06",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s84",
+      "lastSentenceId": "ch4-s85",
+      "beforeSentenceId": "ch4-s84",
+      "image": "assets/scenes/ch04-b003/06.png",
+      "alt": "Michael explains where trash goes",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-07",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s86",
+      "lastSentenceId": "ch4-s88",
+      "beforeSentenceId": "ch4-s86",
+      "image": "assets/scenes/ch04-b003/07.png",
+      "alt": "Michael recalls Mosley?s warning",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-08",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s89",
+      "lastSentenceId": "ch4-s90",
+      "beforeSentenceId": "ch4-s89",
+      "image": "assets/scenes/ch04-b003/08.png",
+      "alt": "Ridge laughs nervously",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-09",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s91",
+      "lastSentenceId": "ch4-s92",
+      "beforeSentenceId": "ch4-s91",
+      "image": "assets/scenes/ch04-b003/09.png",
+      "alt": "Ridge claims he was joking",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-10",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s93",
+      "lastSentenceId": "ch4-s94",
+      "beforeSentenceId": "ch4-s93",
+      "image": "assets/scenes/ch04-b003/10.png",
+      "alt": "Gibby responds skeptically",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-11",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s95",
+      "lastSentenceId": "ch4-s97",
+      "beforeSentenceId": "ch4-s95",
+      "image": "assets/scenes/ch04-b003/11.png",
+      "alt": "Michael feels nervous and wants to leave",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-12",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s98",
+      "lastSentenceId": "ch4-s99",
+      "beforeSentenceId": "ch4-s98",
+      "image": "assets/scenes/ch04-b003/12.png",
+      "alt": "Gibby asks why Ridge was staring",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-13",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s100",
+      "lastSentenceId": "ch4-s100",
+      "beforeSentenceId": "ch4-s100",
+      "image": "assets/scenes/ch04-b003/13.png",
+      "alt": "Ridge glances back at the dumpster",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-14",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s101",
+      "lastSentenceId": "ch4-s104",
+      "beforeSentenceId": "ch4-s101",
+      "image": "assets/scenes/ch04-b003/14.png",
+      "alt": "Ridge describes studying it and its smell",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-15",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s105",
+      "lastSentenceId": "ch4-s108",
+      "beforeSentenceId": "ch4-s105",
+      "image": "assets/scenes/ch04-b003/15.png",
+      "alt": "Gibby explains garbage and puzzles over his slang",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b003-16",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s109",
+      "lastSentenceId": "ch4-s112",
+      "beforeSentenceId": "ch4-s109",
+      "image": "assets/scenes/ch04-b003/16.png",
+      "alt": "Ridge asks about the plastic bags",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    }
+  ]
+}
