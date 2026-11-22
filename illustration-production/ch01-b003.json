@@ -1,0 +1,191 @@
+{
+  "id": "ch01-b003",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    378,
+    250
+  ],
+  "source": "ch01-b003-approved-v1.png",
+  "qualityLimitation": "Requested maximum native resolution; returned1536x1024. No upscaling.",
+  "scenes": [
+    {
+      "id": "ch01-b003-01",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s62",
+      "lastSentenceId": "ch1-s63",
+      "beforeSentenceId": "ch1-s62",
+      "image": "assets/scenes/ch01-b003/01.png",
+      "alt": "Michael feels trapped between the older boys",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-02",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s64",
+      "lastSentenceId": "ch1-s65",
+      "beforeSentenceId": "ch1-s64",
+      "image": "assets/scenes/ch01-b003/02.png",
+      "alt": "The exit is just steps away",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-03",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s66",
+      "lastSentenceId": "ch1-s67",
+      "beforeSentenceId": "ch1-s66",
+      "image": "assets/scenes/ch01-b003/03.png",
+      "alt": "Beejee asks why there is no bag",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-04",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s68",
+      "lastSentenceId": "ch1-s70",
+      "beforeSentenceId": "ch1-s68",
+      "image": "assets/scenes/ch01-b003/04.png",
+      "alt": "Jamar defends his purchase",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-05",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s71",
+      "lastSentenceId": "ch1-s73",
+      "beforeSentenceId": "ch1-s71",
+      "image": "assets/scenes/ch01-b003/05.png",
+      "alt": "Jamar nudges Michael to come along",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-06",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s74",
+      "lastSentenceId": "ch1-s75",
+      "beforeSentenceId": "ch1-s74",
+      "image": "assets/scenes/ch01-b003/06.png",
+      "alt": "Michael follows Jamar toward the exit",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-07",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s76",
+      "lastSentenceId": "ch1-s79",
+      "beforeSentenceId": "ch1-s76",
+      "image": "assets/scenes/ch01-b003/07.png",
+      "alt": "Beejee calls after them",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-08",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s80",
+      "lastSentenceId": "ch1-s80",
+      "beforeSentenceId": "ch1-s80",
+      "image": "assets/scenes/ch01-b003/08.png",
+      "alt": "The boys leave through the automatic doors",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-09",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s81",
+      "lastSentenceId": "ch1-s83",
+      "beforeSentenceId": "ch1-s81",
+      "image": "assets/scenes/ch01-b003/09.png",
+      "alt": "Michael feels uncomfortable about swearing",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-10",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s84",
+      "lastSentenceId": "ch1-s84",
+      "beforeSentenceId": "ch1-s84",
+      "image": "assets/scenes/ch01-b003/10.png",
+      "alt": "Jamar explains why he intervened",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-11",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s85",
+      "lastSentenceId": "ch1-s86",
+      "beforeSentenceId": "ch1-s85",
+      "image": "assets/scenes/ch01-b003/11.png",
+      "alt": "Jamar unwraps candy as they cross the street",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-12",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s87",
+      "lastSentenceId": "ch1-s91",
+      "beforeSentenceId": "ch1-s87",
+      "image": "assets/scenes/ch01-b003/12.png",
+      "alt": "Jamar talks about his younger brother",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-13",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s92",
+      "lastSentenceId": "ch1-s95",
+      "beforeSentenceId": "ch1-s92",
+      "image": "assets/scenes/ch01-b003/13.png",
+      "alt": "Michael thinks about Elijah while listening",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-14",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s96",
+      "lastSentenceId": "ch1-s99",
+      "beforeSentenceId": "ch1-s96",
+      "image": "assets/scenes/ch01-b003/14.png",
+      "alt": "Jamar describes his quiet brother",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-15",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s100",
+      "lastSentenceId": "ch1-s101",
+      "beforeSentenceId": "ch1-s100",
+      "image": "assets/scenes/ch01-b003/15.png",
+      "alt": "The boys part ways at Fox Run",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b003-16",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s102",
+      "lastSentenceId": "ch1-s103",
+      "beforeSentenceId": "ch1-s102",
+      "image": "assets/scenes/ch01-b003/16.png",
+      "alt": "Michael quietly thanks Jamar as he walks away",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    }
+  ]
+}
