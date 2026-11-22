@@ -1,0 +1,208 @@
+{
+  "id": "ch04-b004",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch04-b004-approved-v1.png",
+  "qualityLimitation": "Native1536x1024, no upscaling",
+  "scenes": [
+    {
+      "id": "ch04-b004-01",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s113",
+      "lastSentenceId": "ch4-s116",
+      "beforeSentenceId": "ch4-s113",
+      "image": "assets/scenes/ch04-b004/01.png",
+      "alt": "Gibby introduces herself and Michael",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-02",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s117",
+      "lastSentenceId": "ch4-s118",
+      "beforeSentenceId": "ch4-s117",
+      "image": "assets/scenes/ch04-b004/02.png",
+      "alt": "Ridge introduces himself and runs his fingers through his hair",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-03",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s119",
+      "lastSentenceId": "ch4-s120",
+      "beforeSentenceId": "ch4-s119",
+      "image": "assets/scenes/ch04-b004/03.png",
+      "alt": "Gibby asks where Ridge lives",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-04",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s121",
+      "lastSentenceId": "ch4-s122",
+      "beforeSentenceId": "ch4-s121",
+      "image": "assets/scenes/ch04-b004/04.png",
+      "alt": "Ridge asks where they live",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-05",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s123",
+      "lastSentenceId": "ch4-s126",
+      "beforeSentenceId": "ch4-s123",
+      "image": "assets/scenes/ch04-b004/05.png",
+      "alt": "Ridge smiles as Michael grows nervous",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-06",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s127",
+      "lastSentenceId": "ch4-s129",
+      "beforeSentenceId": "ch4-s127",
+      "image": "assets/scenes/ch04-b004/06.png",
+      "alt": "Gibby refuses to reveal her address",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-07",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s130",
+      "lastSentenceId": "ch4-s133",
+      "beforeSentenceId": "ch4-s130",
+      "image": "assets/scenes/ch04-b004/07.png",
+      "alt": "Ridge asks Michael about his building",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-08",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s134",
+      "lastSentenceId": "ch4-s136",
+      "beforeSentenceId": "ch4-s134",
+      "image": "assets/scenes/ch04-b004/08.png",
+      "alt": "Michael corrects his name and raises the bag of empty tins",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-09",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s137",
+      "lastSentenceId": "ch4-s138",
+      "beforeSentenceId": "ch4-s137",
+      "image": "assets/scenes/ch04-b004/09.png",
+      "alt": "Michael leaves and Gibby follows",
+      "depictionType": "story",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-10",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s139",
+      "lastSentenceId": "ch4-s140",
+      "beforeSentenceId": "ch4-s139",
+      "image": "assets/scenes/ch04-b004/10.png",
+      "alt": "Conceptual illustration for the future document about slang",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-11",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s141",
+      "lastSentenceId": "ch4-s141",
+      "beforeSentenceId": "ch4-s141",
+      "image": "assets/scenes/ch04-b004/11.png",
+      "alt": "Conceptual illustration for differing conversational contexts",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-12",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s142",
+      "lastSentenceId": "ch4-s145",
+      "beforeSentenceId": "ch4-s142",
+      "image": "assets/scenes/ch04-b004/12.png",
+      "alt": "Conceptual greeting gesture for the slang guide",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-13",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s146",
+      "lastSentenceId": "ch4-s149",
+      "beforeSentenceId": "ch4-s146",
+      "image": "assets/scenes/ch04-b004/13.png",
+      "alt": "Conceptual farewell gesture for the slang guide",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-14",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s150",
+      "lastSentenceId": "ch4-s155",
+      "beforeSentenceId": "ch4-s150",
+      "image": "assets/scenes/ch04-b004/14.png",
+      "alt": "Conceptual disagreement and obviousness gestures for the slang guide",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-15",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s156",
+      "lastSentenceId": "ch4-s162",
+      "beforeSentenceId": "ch4-s156",
+      "image": "assets/scenes/ch04-b004/15.png",
+      "alt": "Conceptual departure and contextual agreement for the slang guide",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    },
+    {
+      "id": "ch04-b004-16",
+      "chapter": 4,
+      "firstSentenceId": "ch4-s163",
+      "lastSentenceId": "ch4-s168",
+      "beforeSentenceId": "ch4-s163",
+      "image": "assets/scenes/ch04-b004/16.png",
+      "alt": "Conceptual reading illustration for the future slang reference excerpt",
+      "depictionType": "document-concept",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout density not measured; long contextual groups require later density review"
+    }
+  ]
+}
