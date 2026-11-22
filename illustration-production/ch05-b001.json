@@ -1,0 +1,192 @@
+{
+  "id": "ch05-b001",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch05-b001-approved-v1.png",
+  "qualityLimitation": "Native1536x1024; not upscaled",
+  "scenes": [
+    {
+      "id": "ch05-b001-01",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s1",
+      "lastSentenceId": "ch5-s3",
+      "beforeSentenceId": "ch5-s1",
+      "image": "assets/scenes/ch05-b001/01.png",
+      "alt": "Michael worries about Y2K",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-02",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s4",
+      "lastSentenceId": "ch5-s5",
+      "beforeSentenceId": "ch5-s4",
+      "image": "assets/scenes/ch05-b001/02.png",
+      "alt": "Michael thinks about possible computer failures",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-03",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s6",
+      "lastSentenceId": "ch5-s7",
+      "beforeSentenceId": "ch5-s6",
+      "image": "assets/scenes/ch05-b001/03.png",
+      "alt": "Michael prepares for himself and his mother",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-04",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s8",
+      "lastSentenceId": "ch5-s8",
+      "beforeSentenceId": "ch5-s8",
+      "image": "assets/scenes/ch05-b001/04.png",
+      "alt": "Michael checks the hidden supplies beneath his bed",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-05",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s9",
+      "lastSentenceId": "ch5-s9",
+      "beforeSentenceId": "ch5-s9",
+      "image": "assets/scenes/ch05-b001/05.png",
+      "alt": "Michael listens to his birthday CD while counting supplies",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-06",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s10",
+      "lastSentenceId": "ch5-s10",
+      "beforeSentenceId": "ch5-s10",
+      "image": "assets/scenes/ch05-b001/06.png",
+      "alt": "Michael increases the stereo volume",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-07",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s11",
+      "lastSentenceId": "ch5-s13",
+      "beforeSentenceId": "ch5-s11",
+      "image": "assets/scenes/ch05-b001/07.png",
+      "alt": "Michael counts canned vegetables and pasta",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-08",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s14",
+      "lastSentenceId": "ch5-s16",
+      "beforeSentenceId": "ch5-s14",
+      "image": "assets/scenes/ch05-b001/08.png",
+      "alt": "Michael checks crackers trail mix and peaches",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-09",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s17",
+      "lastSentenceId": "ch5-s23",
+      "beforeSentenceId": "ch5-s17",
+      "image": "assets/scenes/ch05-b001/09.png",
+      "alt": "Michael mentally counts the remaining days",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-10",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s24",
+      "lastSentenceId": "ch5-s25",
+      "beforeSentenceId": "ch5-s24",
+      "image": "assets/scenes/ch05-b001/10.png",
+      "alt": "Michael gets up as the last song ends",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-11",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s26",
+      "lastSentenceId": "ch5-s27",
+      "beforeSentenceId": "ch5-s26",
+      "image": "assets/scenes/ch05-b001/11.png",
+      "alt": "Michael finds comfort in his mother’s routine",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-12",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s28",
+      "lastSentenceId": "ch5-s30",
+      "beforeSentenceId": "ch5-s28",
+      "image": "assets/scenes/ch05-b001/12.png",
+      "alt": "Michael thinks about his mother’s jobs",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-13",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s31",
+      "lastSentenceId": "ch5-s32",
+      "beforeSentenceId": "ch5-s31",
+      "image": "assets/scenes/ch05-b001/13.png",
+      "alt": "Michael feels guilty about the past",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-14",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s33",
+      "lastSentenceId": "ch5-s35",
+      "beforeSentenceId": "ch5-s33",
+      "image": "assets/scenes/ch05-b001/14.png",
+      "alt": "Michael anticipates birthday television with his mother",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-15",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s36",
+      "lastSentenceId": "ch5-s37",
+      "beforeSentenceId": "ch5-s36",
+      "image": "assets/scenes/ch05-b001/15.png",
+      "alt": "Michael lies back and notices the ceiling stain",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    },
+    {
+      "id": "ch05-b001-16",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s38",
+      "lastSentenceId": "ch5-s40",
+      "beforeSentenceId": "ch5-s38",
+      "image": "assets/scenes/ch05-b001/16.png",
+      "alt": "Michael thinks about reading Gibby’s book",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "line density not measured; contextual grouping exceptions require later audit"
+    }
+  ]
+}
