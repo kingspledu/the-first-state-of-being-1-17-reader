@@ -1,0 +1,304 @@
+{
+  "id": "ch03-b001",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch03-b001-approved-v1.png",
+  "qualityLimitation": "Native1536x1024; no artificial upscaling. Full high-resolution target not reached.",
+  "scenes": [
+    {
+      "id": "ch03-b001-01",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s1",
+      "lastSentenceId": "ch3-s1",
+      "beforeSentenceId": "ch3-s1",
+      "image": "assets/scenes/ch03-b001/01.png",
+      "alt": "Mosley rings the doorbell at noon",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-02",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s2",
+      "lastSentenceId": "ch3-s2",
+      "beforeSentenceId": "ch3-s2",
+      "image": "assets/scenes/ch03-b001/02.png",
+      "alt": "Gibby welcomes Mosley with sandwiches and candy",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-03",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s3",
+      "lastSentenceId": "ch3-s3",
+      "beforeSentenceId": "ch3-s3",
+      "image": "assets/scenes/ch03-b001/03.png",
+      "alt": "Mosley sits at the kitchen counter and opens his soda",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-04",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s4",
+      "lastSentenceId": "ch3-s4",
+      "beforeSentenceId": "ch3-s4",
+      "image": "assets/scenes/ch03-b001/04.png",
+      "alt": "Michael remembers Mosley’s friendship",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-05",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s5",
+      "lastSentenceId": "ch3-s6",
+      "beforeSentenceId": "ch3-s5",
+      "image": "assets/scenes/ch03-b001/05.png",
+      "alt": "Mosley checks on Michael while his mother is at work",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-06",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s7",
+      "lastSentenceId": "ch3-s7",
+      "beforeSentenceId": "ch3-s7",
+      "image": "assets/scenes/ch03-b001/06.png",
+      "alt": "Mosley now visits simply to share lunch",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-07",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s8",
+      "lastSentenceId": "ch3-s8",
+      "beforeSentenceId": "ch3-s8",
+      "image": "assets/scenes/ch03-b001/07.png",
+      "alt": "Mosley eats as Gibby reads beside her candy",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-08",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s9",
+      "lastSentenceId": "ch3-s10",
+      "beforeSentenceId": "ch3-s9",
+      "image": "assets/scenes/ch03-b001/08.png",
+      "alt": "Mosley asks about the book",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-09",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s11",
+      "lastSentenceId": "ch3-s12",
+      "beforeSentenceId": "ch3-s11",
+      "image": "assets/scenes/ch03-b001/09.png",
+      "alt": "Gibby looks up brightly and names her book",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-10",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s13",
+      "lastSentenceId": "ch3-s14",
+      "beforeSentenceId": "ch3-s13",
+      "image": "assets/scenes/ch03-b001/10.png",
+      "alt": "Gibby explains the mystery plot",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-11",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s15",
+      "lastSentenceId": "ch3-s15",
+      "beforeSentenceId": "ch3-s15",
+      "image": "assets/scenes/ch03-b001/11.png",
+      "alt": "Gibby explains the false accusation in her book",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-12",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s16",
+      "lastSentenceId": "ch3-s16",
+      "beforeSentenceId": "ch3-s16",
+      "image": "assets/scenes/ch03-b001/12.png",
+      "alt": "Gibby describes the search for the true culprit",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-13",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s17",
+      "lastSentenceId": "ch3-s18",
+      "beforeSentenceId": "ch3-s17",
+      "image": "assets/scenes/ch03-b001/13.png",
+      "alt": "Mosley listens and swallows",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-14",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s19",
+      "lastSentenceId": "ch3-s22",
+      "beforeSentenceId": "ch3-s19",
+      "image": "assets/scenes/ch03-b001/14.png",
+      "alt": "Mosley reflects on how long it has been since he read a book",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-15",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s23",
+      "lastSentenceId": "ch3-s24",
+      "beforeSentenceId": "ch3-s23",
+      "image": "assets/scenes/ch03-b001/15.png",
+      "alt": "Gibby is astonished",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch03-b001-16",
+      "chapter": 3,
+      "firstSentenceId": "ch3-s25",
+      "lastSentenceId": "ch3-s25",
+      "beforeSentenceId": "ch3-s25",
+      "image": "assets/scenes/ch03-b001/16.png",
+      "alt": "Mosley says he never had reason to read",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-mosley",
+        "places-master"
+      ],
+      "costume": "Michael navy no-hood windbreaker; Gibby plaid shirt/cream top/jeans with source-specified pink sandals; Mosley paint-spattered coveralls",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    }
+  ]
+}
