@@ -1,0 +1,197 @@
+{
+  "id": "ch01-b004",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "source": "ch01-b004-approved-v1.png",
+  "qualityLimitation": "Requested maximum native resolution; returned1536x1024. No upscaling.",
+  "scenes": [
+    {
+      "id": "ch01-b004-01",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s104",
+      "lastSentenceId": "ch1-s106",
+      "beforeSentenceId": "ch1-s104",
+      "image": "assets/scenes/ch01-b004/01.png",
+      "alt": "Michael relaxes on reaching the courtyard",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-02",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s107",
+      "lastSentenceId": "ch1-s108",
+      "beforeSentenceId": "ch1-s107",
+      "image": "assets/scenes/ch01-b004/02.png",
+      "alt": "Fox Run courtyard with parked cars stray cat and Mosley",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-03",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s109",
+      "lastSentenceId": "ch1-s110",
+      "beforeSentenceId": "ch1-s109",
+      "image": "assets/scenes/ch01-b004/03.png",
+      "alt": "Michael greets Mosley",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-04",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s111",
+      "lastSentenceId": "ch1-s113",
+      "beforeSentenceId": "ch1-s111",
+      "image": "assets/scenes/ch01-b004/04.png",
+      "alt": "Mosley looks up and smiles",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-05",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s114",
+      "lastSentenceId": "ch1-s116",
+      "beforeSentenceId": "ch1-s114",
+      "image": "assets/scenes/ch01-b004/05.png",
+      "alt": "Mosley sets down his paint can",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-06",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s117",
+      "lastSentenceId": "ch1-s117",
+      "beforeSentenceId": "ch1-s117",
+      "image": "assets/scenes/ch01-b004/06.png",
+      "alt": "Mosley says he wanted to see Michael",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-07",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s118",
+      "lastSentenceId": "ch1-s118",
+      "beforeSentenceId": "ch1-s118",
+      "image": "assets/scenes/ch01-b004/07.png",
+      "alt": "Mosley takes out his wallet",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-08",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s119",
+      "lastSentenceId": "ch1-s119",
+      "beforeSentenceId": "ch1-s119",
+      "image": "assets/scenes/ch01-b004/08.png",
+      "alt": "Mosley takes out a birthday banknote",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-09",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s120",
+      "lastSentenceId": "ch1-s120",
+      "beforeSentenceId": "ch1-s120",
+      "image": "assets/scenes/ch01-b004/09.png",
+      "alt": "Mosley offers the money",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-10",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s121",
+      "lastSentenceId": "ch1-s121",
+      "beforeSentenceId": "ch1-s121",
+      "image": "assets/scenes/ch01-b004/10.png",
+      "alt": "Michael says a gift is unnecessary",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-11",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s122",
+      "lastSentenceId": "ch1-s124",
+      "beforeSentenceId": "ch1-s122",
+      "image": "assets/scenes/ch01-b004/11.png",
+      "alt": "Michael sneezes and wipes his nose",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-12",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s125",
+      "lastSentenceId": "ch1-s128",
+      "beforeSentenceId": "ch1-s125",
+      "image": "assets/scenes/ch01-b004/12.png",
+      "alt": "Mosley jokes about taxes painting and life",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-13",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s129",
+      "lastSentenceId": "ch1-s129",
+      "beforeSentenceId": "ch1-s129",
+      "image": "assets/scenes/ch01-b004/13.png",
+      "alt": "Mosley touches the paint can with his boot",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-14",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s130",
+      "lastSentenceId": "ch1-s132",
+      "beforeSentenceId": "ch1-s130",
+      "image": "assets/scenes/ch01-b004/14.png",
+      "alt": "The eggshell white paint can",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-15",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s133",
+      "lastSentenceId": "ch1-s138",
+      "beforeSentenceId": "ch1-s133",
+      "image": "assets/scenes/ch01-b004/15.png",
+      "alt": "Michael feels conflicted about accepting money",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b004-16",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s139",
+      "lastSentenceId": "ch1-s144",
+      "beforeSentenceId": "ch1-s139",
+      "image": "assets/scenes/ch01-b004/16.png",
+      "alt": "Michael accepts the birthday gift",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    }
+  ],
+  "cropInset": 10,
+  "referenceIds": [
+    "sheet-michael",
+    "sheet-mosley",
+    "fox-run-summer"
+  ]
+}
