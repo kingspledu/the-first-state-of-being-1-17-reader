@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "tool": "built-in image_gen",
+  "date": "2026-11-22",
+  "sheets": [
+    {
+      "id": "michael",
+      "file": "assets/character-sheets/michael-v1.webp",
+      "original": "assets/character-sheets/michael-v1.png",
+      "prompt": "Create an individual production CHARACTER MODEL SHEET for MICHAEL ROSARIO from The First State of Being. Reference image is the EXISTING illustrated cast master: copy ONLY the boy at top left, preserving exactly his face, warm skin tone, messy short dark brown hair, large brown eyes, small slim 12-year-old proportions, navy open hoodie over cream/navy horizontal striped tee, worn blue jeans and white sneakers. Do not copy any other character. Warm paper background, clear rounded dark ink lines, restrained warm pastel graphic novel colors, subtle paper grain exactly matching reference, no photorealism. Landscape professional sheet: upper row four equally scaled FULL BODY turnaround views front, three-quarter, profile, back; lower row six head expressions neutral, shy smile, anxious, surprised, sad, determined. Same single boy consistent across all ten drawings; keep all feet and hair inside canvas, ample margins. Small accurate heading MICHAEL ROSARIO and small view labels only. No story scenes, no speech balloons, no other person, no props obscuring anatomy. Clean separated layout without grid lines crossing figures.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "ridge",
+      "file": "assets/character-sheets/ridge-v1.webp",
+      "original": "assets/character-sheets/ridge-v1.png",
+      "prompt": "Individual character model sheet RIDGE SABIO. Reference image cast master: ONLY top middle boy is Ridge. Preserve his exact long narrow teenage face, brown eyes, wavy dark brown ear-length hair, slim16-year-old172cm proportions and warm light skin. Cream high-neck zipped future jumpsuit with dark grey shoulder and elbow patches, belt and cargo pockets, simple grey shoes. Match reference warm paper ink/pastel graphic novel style. Landscape sheet, four full body front/three-quarter/profile/back views across top all same scale entire feet visible; six bust expressions neutral, curious smile, worried, surprised, exhausted/ill, determined below. Same single character in all views. Heading RIDGE SABIO, small view labels. No other people, no props, ample clear margins, no lines crossing drawings. Do not copy Michael's small child's face. Ill expression changes pallor/eyelids only not facial structure.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "gibby",
+      "file": "assets/character-sheets/gibby-v1.webp",
+      "original": "assets/character-sheets/gibby-v1.png",
+      "prompt": "Individual character model sheet ELIZABETH 'GIBBY' GIBSON. Reference cast master: use ONLY top-right girl. Preserve exact warm medium tan skin, brown eyes, dark voluminous curly high ponytail with loose face framing curls,16-year-old slim teenage proportions, friendly expressive face. Rust/brown plaid open overshirt rolled sleeves over cream tee, high-waisted blue jeans black belt, small beaded necklace and small earrings, simple canvas shoes. Same reference warm paper clean dark ink pastel middle-grade graphic novel style. Landscape sheet upper row4full body views FRONT,THREE-QUARTER,PROFILE,BACK all at same scale feet fully visible. Lower row6bust expressions NEUTRAL,WARM SMILE,SKEPTICAL,WORRIED,STARTLED,DETERMINED. Same single person consistent across all views. Heading GIBBY GIBSON. No other people/story scenes, ample margins, no grid lines crossing bodies. Don't give her Rosario's low bun or Paige's straight hair.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "rosario",
+      "file": "assets/character-sheets/rosario-v1.webp",
+      "original": "assets/character-sheets/rosario-v1.png",
+      "prompt": "Individual production character model sheet MS. ROSARIO. Use ONLY middle-left mother in reference cast master. Exact same warm skin, dark hair low loose bun with swept strands, warm tired brown eyes, gentle slender adult face, small gold hoop earrings, burgundy cardigan rolled sleeves over cream floral blouse, charcoal trousers black belt, practical brown flats. Preserve face and age, don't turn her elderly or into Gibby. Reference warm paper clear ink pastel graphic novel style. Landscape: top4full-body front,three-quarter,profile,back all same scale feet visible; bottom6head expressions neutral,gentle smile,tired,worried,tearful,firm. Same one person throughout. Heading MS. ROSARIO. Ample margins no overlapping drawings,no other people,no scene backgrounds.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "mosley",
+      "file": "assets/character-sheets/mosley-v1.webp",
+      "original": "assets/character-sheets/mosley-v1.png",
+      "prompt": "Individual character model sheet MR. MOSLEY. Use ONLY elderly man middle-center of reference cast master. Preserve exact warm brown skin, short curly grey hair, thick grey moustache, kindly lined round face, stocky older man's build. Grey-blue work coveralls rolled to forearms and scattered dried beige paint stains, practical brown work shoes. Same warm paper clean ink pastel middle-grade graphic novel style as reference. Landscape professional sheet top4full-body FRONT,THREE-QUARTER,PROFILE,BACK same scale feet visible; bottom6bust expressions NEUTRAL,KIND SMILE,AMUSED,CONCERNED,TIRED,REFLECTIVE. Same one man all views, consistent age face hair workwear. Heading MR. MOSLEY. No scene,no other people,no medical props,ample margins.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "beejee",
+      "file": "assets/character-sheets/beejee-v1.webp",
+      "original": "assets/character-sheets/beejee-v1.png",
+      "prompt": "Individual character model sheet BEEJEE GIBSON. Copy ONLY middle-right young man in reference cast master:19-year-old broad muscular build, medium brown skin, short very dark close-cut hair, brown eyes, strong neck, friendly rounded face. Oversized charcoal T-shirt with cream undershirt hem, olive cargo pants, dark casual shoes. Preserve exact existing illustration face and proportions; must be broader than slim Ridge. Same warm paper clear rounded ink pastel graphic novel style. Landscape upper4full-body front,three-quarter,profile,back same scale feet visible; lower6bust expressions neutral,casual smile,amused,skeptical,angry,concerned. One identical character across all views. Heading BEEJEE GIBSON,small view labels,ample margins,no other people,no story background.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "paige",
+      "file": "assets/character-sheets/paige-v1.webp",
+      "original": "assets/character-sheets/paige-v1.png",
+      "prompt": "Individual character model sheet PAIGE KAMINSKI. Use ONLY bottom-left girl in reference cast master. Preserve exact freckled light warm skin, long light-brown hair with bangs and small pale hair clip, large eyes, cheerful open smile, slender young seventh-grade proportions (Michael's peer; NOT adult). Cream daisy ringer T-shirt with burgundy collar/sleeve edges, checked shirt tied round waist, blue jeans,beaded necklace,simple canvas shoes. Reference warm paper clear ink pastel graphic novel style. Landscape upper4full-body front,three-quarter,profile,back same scale feet visible; lower6bust neutral,bright smile,amused,curious,worried,surprised. Same one girl throughout. Heading PAIGE KAMINSKI small labels ample margins,no other person,no story background. Don't give her Gibby's curly ponytail.",
+      "reference": "tfsob-reader-fix/assets/character-sheet-master.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "maria",
+      "file": "assets/character-sheets/maria-v1.webp",
+      "original": "assets/character-sheets/maria-v1.png",
+      "prompt": "Individual production character model sheet DR. MARIA SABIO. Reference is existing Sabio family master: copy ONLY top row Maria. Exactly preserve52-year-old slender162cm adult woman,warm light skin,brown eyes,round thin glasses,dark brown hair with distinctive grey forelock in low bun,lined gentle academic face. White lab coat over charcoal turtleneck,grey trousers black belt,black flats. Same warm paper ink pastel graphic novel style. Landscape upper4full-body FRONT,THREE-QUARTER,PROFILE,BACK at same scale feet visible; lower6bust NEUTRAL,REASSURING,FOCUSED,WORRIED,EXHAUSTED,RESOLUTE. Same single woman all views. Heading DR. MARIA SABIO. Keep glasses and grey streak all views,don't borrow Ms.Rosario face. No other people,no scene,ample margins.",
+      "reference": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "ian",
+      "file": "assets/character-sheets/ian-v1.webp",
+      "original": "assets/character-sheets/ian-v1.png",
+      "prompt": "Individual production character model sheet IAN SABIO. Reference family master: use ONLY SECOND ROW young man. Preserve exact18-year-old182cm tall slim build,light warm skin,brown eyes,short neatly side-parted brown hair,calm slender face. Teal high-neck zip research jacket with light grey shoulder panels,pale piping,grey trousers,dark low shoes. Same warm paper clean ink pastel graphic novel style. Landscape top4full-body FRONT,THREE-QUARTER,PROFILE,BACK same scale entire feet visible; bottom6bust NEUTRAL,SMILE,FOCUSED,WORRIED,SURPRISED,RESOLUTE. Same single Ian all10drawings,don't give him Ridge's longer waves or Shale's blue eyes/rust jacket. Heading IAN SABIO,small view labels,ample margins,no other people,no scene.",
+      "reference": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "shale",
+      "file": "assets/character-sheets/shale-v1.webp",
+      "original": "assets/character-sheets/shale-v1.png",
+      "prompt": "Individual production character model sheet SHALE SABIO. Reference Sabio family master: copy ONLY THIRD ROW young man. Preserve exact17-year-old181cm slim teenage build,warm light skin,BLUE eyes,short textured tousled brown hair,more energetic angular face than Ian. Rust orange high-neck zipped research jacket lightgrey shoulder panels/piping,grey trousers,dark shoes. Same existing warm paper clean ink pastel graphic novel style. Landscape upper4full-body front,three-quarter,profile,back at same scale all feet visible; lower6bust neutral,confident smile,teasing,annoyed,worried,determined. Heading SHALE SABIO smalllabels amplemargins,no other people,no scenes. Same one person across all views. Don't turn hair into Ridge's long waves or eyesbrown or jacket teal.",
+      "reference": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    },
+    {
+      "id": "bex",
+      "file": "assets/character-sheets/bex-v1.webp",
+      "original": "assets/character-sheets/bex-v1.png",
+      "prompt": "Individual production character model sheet BEX SABIO. Reference Sabio family master: copy ONLY FOURTH/BOTTOM ROW character. Preserve exact14-year-old148cm small slender nonbinary teenager,light warm skin,BLUE eyes,chin-length straight brown bob parted to side,soft youthful face. Lavender high-neck zip research jacket with light grey shoulder panels,pale piping,grey trousers,cream low sneakers. Same reference warm paper rounded dark ink pastel graphic novel style. Landscape top4full-body FRONT,THREE-QUARTER,PROFILE,BACK same scale all feet visible; bottom6bust NEUTRAL,SMILE,ANALYTICAL,SKEPTICAL,WORRIED,SURPRISED. Same one person across all views,don't adultify,don't add gender stereotypes,don't substitute early white jumpsuit. Heading BEX SABIO,small view labels,ample margins,no other people or scenes.",
+      "reference": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+      "review": {
+        "identity": "checked against existing master",
+        "views": 4,
+        "expressions": 6,
+        "status": "accepted",
+        "limitations": "Visual reference; original-text wardrobe and scene state still take priority"
+      }
+    }
+  ]
+}

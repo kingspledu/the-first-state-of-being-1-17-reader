@@ -68,8 +68,19 @@
         39
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "michael"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "michael",
+      "visualReference": {
+        "image": "assets/character-sheets/michael-v1.webp",
+        "original": "assets/character-sheets/michael-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "ridge",
@@ -118,8 +129,19 @@
         39
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "ridge"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "ridge",
+      "visualReference": {
+        "image": "assets/character-sheets/ridge-v1.webp",
+        "original": "assets/character-sheets/ridge-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "gibby",
@@ -164,8 +186,19 @@
         35
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "gibby"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "gibby",
+      "visualReference": {
+        "image": "assets/character-sheets/gibby-v1.webp",
+        "original": "assets/character-sheets/gibby-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "rosario",
@@ -207,8 +240,19 @@
         38
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "rosario"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "rosario",
+      "visualReference": {
+        "image": "assets/character-sheets/rosario-v1.webp",
+        "original": "assets/character-sheets/rosario-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "mosley",
@@ -250,8 +294,19 @@
         38
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "mosley"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "mosley",
+      "visualReference": {
+        "image": "assets/character-sheets/mosley-v1.webp",
+        "original": "assets/character-sheets/mosley-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "beejee",
@@ -288,8 +343,19 @@
         37
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "beejee"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "beejee",
+      "visualReference": {
+        "image": "assets/character-sheets/beejee-v1.webp",
+        "original": "assets/character-sheets/beejee-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "paige",
@@ -310,8 +376,19 @@
         38
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "paige"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "paige",
+      "visualReference": {
+        "image": "assets/character-sheets/paige-v1.webp",
+        "original": "assets/character-sheets/paige-v1.png",
+        "version": 1,
+        "authority": "tfsob-reader-fix/assets/character-sheet-master.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "teresa",
@@ -419,8 +496,19 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "maria"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "maria",
+      "visualReference": {
+        "image": "assets/character-sheets/maria-v1.webp",
+        "original": "assets/character-sheets/maria-v1.png",
+        "version": 1,
+        "authority": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "ian",
@@ -441,8 +529,19 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "ian"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "ian",
+      "visualReference": {
+        "image": "assets/character-sheets/ian-v1.webp",
+        "original": "assets/character-sheets/ian-v1.png",
+        "version": 1,
+        "authority": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "shale",
@@ -463,8 +562,19 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "shale"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "shale",
+      "visualReference": {
+        "image": "assets/character-sheets/shale-v1.webp",
+        "original": "assets/character-sheets/shale-v1.png",
+        "version": 1,
+        "authority": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "bex",
@@ -485,8 +595,19 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
-      "audioPersonaId": "bex"
+      "sheetStatus": "개별 캐릭터 시트 생성·검수 완료",
+      "audioPersonaId": "bex",
+      "visualReference": {
+        "image": "assets/character-sheets/bex-v1.webp",
+        "original": "assets/character-sheets/bex-v1.png",
+        "version": 1,
+        "authority": "tfsob-29-38-public/assets/sabio-family-master-v1.png",
+        "views": 4,
+        "expressions": 6,
+        "reviewed": "2026-11-22",
+        "promptManifest": "character-sheets.json",
+        "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
+      }
     },
     {
       "id": "gibson-father",
