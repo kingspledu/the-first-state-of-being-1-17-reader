@@ -1,0 +1,198 @@
+{
+  "id": "ch01-b005",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "source": "ch01-b005-approved-v1.png",
+  "qualityLimitation": "Requested maximum native resolution; returned1536x1024. No upscaling.",
+  "scenes": [
+    {
+      "id": "ch01-b005-01",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s145",
+      "lastSentenceId": "ch1-s150",
+      "beforeSentenceId": "ch1-s145",
+      "image": "assets/scenes/ch01-b005/01.png",
+      "alt": "An unfamiliar teenager approaches looking over his shoulder",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-02",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s151",
+      "lastSentenceId": "ch1-s158",
+      "beforeSentenceId": "ch1-s151",
+      "image": "assets/scenes/ch01-b005/02.png",
+      "alt": "Ridge wears an unusual eggshell-colored uniform",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-03",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s159",
+      "lastSentenceId": "ch1-s161",
+      "beforeSentenceId": "ch1-s159",
+      "image": "assets/scenes/ch01-b005/03.png",
+      "alt": "Mosley steps protectively in front of Michael",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-04",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s162",
+      "lastSentenceId": "ch1-s165",
+      "beforeSentenceId": "ch1-s162",
+      "image": "assets/scenes/ch01-b005/04.png",
+      "alt": "Ridge stops on the sidewalk and clears his throat",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-05",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s166",
+      "lastSentenceId": "ch1-s173",
+      "beforeSentenceId": "ch1-s166",
+      "image": "assets/scenes/ch01-b005/05.png",
+      "alt": "Ridge introduces himself",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-06",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s174",
+      "lastSentenceId": "ch1-s178",
+      "beforeSentenceId": "ch1-s174",
+      "image": "assets/scenes/ch01-b005/06.png",
+      "alt": "Michael quietly tells Ridge the date",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-07",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s179",
+      "lastSentenceId": "ch1-s181",
+      "beforeSentenceId": "ch1-s179",
+      "image": "assets/scenes/ch01-b005/07.png",
+      "alt": "Ridge asks which year it is",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-08",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s182",
+      "lastSentenceId": "ch1-s184",
+      "beforeSentenceId": "ch1-s182",
+      "image": "assets/scenes/ch01-b005/08.png",
+      "alt": "Mosley replies that it is 1999",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-09",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s185",
+      "lastSentenceId": "ch1-s188",
+      "beforeSentenceId": "ch1-s185",
+      "image": "assets/scenes/ch01-b005/09.png",
+      "alt": "Ridge reacts with excitement or fear",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-10",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s189",
+      "lastSentenceId": "ch1-s193",
+      "beforeSentenceId": "ch1-s189",
+      "image": "assets/scenes/ch01-b005/10.png",
+      "alt": "Ridge bites his lip as Mosley asks where he lives",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-11",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s194",
+      "lastSentenceId": "ch1-s199",
+      "beforeSentenceId": "ch1-s194",
+      "image": "assets/scenes/ch01-b005/11.png",
+      "alt": "Ridge starts walking backward",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-12",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s200",
+      "lastSentenceId": "ch1-s203",
+      "beforeSentenceId": "ch1-s200",
+      "image": "assets/scenes/ch01-b005/12.png",
+      "alt": "Ridge waves vaguely and turns to leave",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-13",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s204",
+      "lastSentenceId": "ch1-s206",
+      "beforeSentenceId": "ch1-s204",
+      "image": "assets/scenes/ch01-b005/13.png",
+      "alt": "Michael and Mosley watch Ridge disappear behind Building F",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-14",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s207",
+      "lastSentenceId": "ch1-s208",
+      "beforeSentenceId": "ch1-s207",
+      "image": "assets/scenes/ch01-b005/14.png",
+      "alt": "Mosley says they should keep an eye on Ridge",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-15",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s209",
+      "lastSentenceId": "ch1-s211",
+      "beforeSentenceId": "ch1-s209",
+      "image": "assets/scenes/ch01-b005/15.png",
+      "alt": "Mosley playfully taps Michael on the shoulder",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    },
+    {
+      "id": "ch01-b005-16",
+      "chapter": 1,
+      "firstSentenceId": "ch1-s212",
+      "lastSentenceId": "ch1-s213",
+      "beforeSentenceId": "ch1-s212",
+      "image": "assets/scenes/ch01-b005/16.png",
+      "alt": "Michael thinks about his hidden peaches",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "actual font-layout measurement pending"
+    }
+  ],
+  "cropInset": 10,
+  "referenceIds": [
+    "sheet-michael",
+    "sheet-mosley",
+    "sheet-ridge",
+    "fox-run-summer"
+  ]
+}
