@@ -68,7 +68,8 @@
         39
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "michael"
     },
     {
       "id": "ridge",
@@ -117,7 +118,8 @@
         39
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "ridge"
     },
     {
       "id": "gibby",
@@ -162,7 +164,8 @@
         35
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "gibby"
     },
     {
       "id": "rosario",
@@ -204,7 +207,8 @@
         38
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "rosario"
     },
     {
       "id": "mosley",
@@ -246,7 +250,8 @@
         38
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "mosley"
     },
     {
       "id": "beejee",
@@ -283,7 +288,8 @@
         37
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "beejee"
     },
     {
       "id": "paige",
@@ -304,7 +310,8 @@
         38
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "paige"
     },
     {
       "id": "teresa",
@@ -321,7 +328,8 @@
         17
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "teresa"
     },
     {
       "id": "jamar",
@@ -342,7 +350,8 @@
         37
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "jamar"
     },
     {
       "id": "elijah",
@@ -360,7 +369,8 @@
         11
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "elijah"
     },
     {
       "id": "darius",
@@ -378,7 +388,8 @@
         11
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "darius"
     },
     {
       "id": "maria",
@@ -408,7 +419,8 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "maria"
     },
     {
       "id": "ian",
@@ -429,7 +441,8 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "ian"
     },
     {
       "id": "shale",
@@ -450,7 +463,8 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "shale"
     },
     {
       "id": "bex",
@@ -471,7 +485,8 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "bex"
     },
     {
       "id": "gibson-father",
@@ -492,7 +507,8 @@
         18
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "gibson-father"
     },
     {
       "id": "michael-father",
@@ -514,7 +530,8 @@
         18
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "michael-father"
     },
     {
       "id": "gibby-mother",
@@ -548,7 +565,8 @@
         37
       ],
       "evidenceStatus": "문맥 재확인 필요: 일반 호칭 검색 후보 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "gibby-mother"
     },
     {
       "id": "ship",
@@ -571,7 +589,8 @@
         34
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "ship"
     },
     {
       "id": "colby",
@@ -589,7 +608,8 @@
         17
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "colby"
     },
     {
       "id": "jameson",
@@ -607,7 +627,8 @@
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "jameson"
     },
     {
       "id": "botha",
@@ -624,7 +645,8 @@
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "botha"
     },
     {
       "id": "robinson",
@@ -641,7 +663,8 @@
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "robinson"
     },
     {
       "id": "adebayo",
@@ -658,7 +681,8 @@
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "adebayo"
     },
     {
       "id": "medina",
@@ -676,7 +700,8 @@
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "medina"
     },
     {
       "id": "adderlaine",
@@ -695,7 +720,8 @@
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "adderlaine"
     },
     {
       "id": "hammond",
@@ -712,7 +738,8 @@
         7
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "hammond"
     },
     {
       "id": "conklin",
@@ -729,7 +756,8 @@
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "conklin"
     },
     {
       "id": "schnurr",
@@ -746,7 +774,8 @@
         20
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "schnurr"
     },
     {
       "id": "fajardo",
@@ -763,7 +792,8 @@
         20
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "fajardo"
     },
     {
       "id": "mosley-mother",
@@ -782,7 +812,8 @@
         30
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "mosley-mother"
     },
     {
       "id": "mosley-father",
@@ -807,7 +838,8 @@
         17
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "mosley-father"
     },
     {
       "id": "tuxedo",
@@ -825,7 +857,8 @@
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "tuxedo"
     },
     {
       "id": "clipper",
@@ -844,7 +877,8 @@
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "clipper"
     },
     {
       "id": "ved",
@@ -863,7 +897,8 @@
         28
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "ved"
     },
     {
       "id": "holosecurity",
@@ -881,7 +916,8 @@
         7
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "holosecurity"
     },
     {
       "id": "holohost",
@@ -898,7 +934,8 @@
         9
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "holohost"
     },
     {
       "id": "piercing-girl",
@@ -915,7 +952,8 @@
         16
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "piercing-girl"
     },
     {
       "id": "piercing-worker",
@@ -933,7 +971,8 @@
         33
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "piercing-worker"
     },
     {
       "id": "classmates",
@@ -952,7 +991,8 @@
         20
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "classmates"
     },
     {
       "id": "inventors",
@@ -970,7 +1010,9 @@
         18
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기"
+      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "audioPersonaId": "inventors"
     }
-  ]
+  ],
+  "audioReference": "voice-cast.json"
 }
