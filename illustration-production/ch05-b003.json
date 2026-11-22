@@ -1,0 +1,290 @@
+{
+  "id": "ch05-b003",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch05-b003-approved-v2.png",
+  "qualityLimitation": "Native1536x1024, not upscaled; maximum-resolution goal remains unmet",
+  "scenes": [
+    {
+      "id": "ch05-b003-01",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s77",
+      "lastSentenceId": "ch5-s80",
+      "beforeSentenceId": "ch5-s77",
+      "image": "assets/scenes/ch05-b003/01.png",
+      "alt": "Michael is astonished by the expensive sneakers",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-02",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s81",
+      "lastSentenceId": "ch5-s82",
+      "beforeSentenceId": "ch5-s81",
+      "image": "assets/scenes/ch05-b003/02.png",
+      "alt": "His mother kisses his head and reminds him it is his birthday",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-03",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s83",
+      "lastSentenceId": "ch5-s85",
+      "beforeSentenceId": "ch5-s83",
+      "image": "assets/scenes/ch05-b003/03.png",
+      "alt": "Michael hesitates over the cost",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-04",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s86",
+      "lastSentenceId": "ch5-s87",
+      "beforeSentenceId": "ch5-s86",
+      "image": "assets/scenes/ch05-b003/04.png",
+      "alt": "Michael worries about money and household needs",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-05",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s88",
+      "lastSentenceId": "ch5-s90",
+      "beforeSentenceId": "ch5-s88",
+      "image": "assets/scenes/ch05-b003/05.png",
+      "alt": "His mother says he should look sharp for his new school",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-06",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s91",
+      "lastSentenceId": "ch5-s91",
+      "beforeSentenceId": "ch5-s91",
+      "image": "assets/scenes/ch05-b003/06.png",
+      "alt": "His mother gently squeezes his cheeks",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-07",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s92",
+      "lastSentenceId": "ch5-s93",
+      "beforeSentenceId": "ch5-s92",
+      "image": "assets/scenes/ch05-b003/07.png",
+      "alt": "Michael thinks about bills and supplies",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-08",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s94",
+      "lastSentenceId": "ch5-s96",
+      "beforeSentenceId": "ch5-s94",
+      "image": "assets/scenes/ch05-b003/08.png",
+      "alt": "His mother cheerfully repeats that this is his gift",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-09",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s97",
+      "lastSentenceId": "ch5-s99",
+      "beforeSentenceId": "ch5-s97",
+      "image": "assets/scenes/ch05-b003/09.png",
+      "alt": "Michael looks at the shoebox with mixed feelings",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-10",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s100",
+      "lastSentenceId": "ch5-s102",
+      "beforeSentenceId": "ch5-s100",
+      "image": "assets/scenes/ch05-b003/10.png",
+      "alt": "Michael admits to himself that he wants the new sneakers",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-11",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s103",
+      "lastSentenceId": "ch5-s104",
+      "beforeSentenceId": "ch5-s103",
+      "image": "assets/scenes/ch05-b003/11.png",
+      "alt": "Michael studies the clean new sneakers",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-12",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s105",
+      "lastSentenceId": "ch5-s107",
+      "beforeSentenceId": "ch5-s105",
+      "image": "assets/scenes/ch05-b003/12.png",
+      "alt": "His mother puts an arm around him and asks only for thanks",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-13",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s108",
+      "lastSentenceId": "ch5-s109",
+      "beforeSentenceId": "ch5-s108",
+      "image": "assets/scenes/ch05-b003/13.png",
+      "alt": "Michael swallows and thanks her",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-14",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s110",
+      "lastSentenceId": "ch5-s110",
+      "beforeSentenceId": "ch5-s110",
+      "image": "assets/scenes/ch05-b003/14.png",
+      "alt": "Michael puts on his new sneakers",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-15",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s111",
+      "lastSentenceId": "ch5-s111",
+      "beforeSentenceId": "ch5-s111",
+      "image": "assets/scenes/ch05-b003/15.png",
+      "alt": "Michael listens to his stereo and walks around in his new shoes",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    },
+    {
+      "id": "ch05-b003-16",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s112",
+      "lastSentenceId": "ch5-s113",
+      "beforeSentenceId": "ch5-s112",
+      "image": "assets/scenes/ch05-b003/16.png",
+      "alt": "Michael goes to his bedroom window in his new sneakers",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-rosario",
+        "places-master"
+      ],
+      "costumeState": "Michael thin navy no-hood windbreaker; mother floral blouse/mauve cardigan from model; Gibby blue scrunchie and pink sandals before departure; white/red sneaker design is production choice, only worn after ch5-s110",
+      "reviewStatus": "semantic-and-visual-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line measurement pending; source-meaning grouping checked, not a density certification"
+    }
+  ],
+  "generationCalls": 2,
+  "correction": "Last bedroom panel ceiling changed to intact plaster and one small faint water stain. Rechecked faces, poses, shoe design and 16-cell grid."
+}
