@@ -1,0 +1,153 @@
+{
+  "id": "ch05-b005",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "source": "ch05-b005-approved-v1.png",
+  "unusedAlternativeTiles": [
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "scenes": [
+    {
+      "id": "ch05-b005-01",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s153",
+      "lastSentenceId": "ch5-s154",
+      "beforeSentenceId": "ch5-s153",
+      "image": "assets/scenes/ch05-b005/01.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-02",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s155",
+      "lastSentenceId": "ch5-s157",
+      "beforeSentenceId": "ch5-s155",
+      "image": "assets/scenes/ch05-b005/02.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-03",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s158",
+      "lastSentenceId": "ch5-s159",
+      "beforeSentenceId": "ch5-s158",
+      "image": "assets/scenes/ch05-b005/03.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-04",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s160",
+      "lastSentenceId": "ch5-s164",
+      "beforeSentenceId": "ch5-s160",
+      "image": "assets/scenes/ch05-b005/04.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-05",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s165",
+      "lastSentenceId": "ch5-s165",
+      "beforeSentenceId": "ch5-s165",
+      "image": "assets/scenes/ch05-b005/05.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-06",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s166",
+      "lastSentenceId": "ch5-s166",
+      "beforeSentenceId": "ch5-s166",
+      "image": "assets/scenes/ch05-b005/06.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-07",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s167",
+      "lastSentenceId": "ch5-s167",
+      "beforeSentenceId": "ch5-s167",
+      "image": "assets/scenes/ch05-b005/07.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-08",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s168",
+      "lastSentenceId": "ch5-s168",
+      "beforeSentenceId": "ch5-s168",
+      "image": "assets/scenes/ch05-b005/08.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-09",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s169",
+      "lastSentenceId": "ch5-s170",
+      "beforeSentenceId": "ch5-s169",
+      "image": "assets/scenes/ch05-b005/09.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-10",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s171",
+      "lastSentenceId": "ch5-s171",
+      "beforeSentenceId": "ch5-s171",
+      "image": "assets/scenes/ch05-b005/10.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b005-11",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s172",
+      "lastSentenceId": "ch5-s173",
+      "beforeSentenceId": "ch5-s172",
+      "image": "assets/scenes/ch05-b005/11.png",
+      "alt": "Conceptual illustration for the future responsible time travel document",
+      "depictionType": "document-concept",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    }
+  ]
+}
