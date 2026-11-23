@@ -1,0 +1,207 @@
+{
+  "id": "ch06-b003",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "source": "ch06-b003-approved-v1.png",
+  "qualityLimitation": "Native1536x1024, no upscaling",
+  "scenes": [
+    {
+      "id": "ch06-b003-01",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s75",
+      "lastSentenceId": "ch6-s78",
+      "beforeSentenceId": "ch6-s75",
+      "image": "assets/scenes/ch06-b003/01.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-02",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s79",
+      "lastSentenceId": "ch6-s80",
+      "beforeSentenceId": "ch6-s79",
+      "image": "assets/scenes/ch06-b003/02.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-03",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s81",
+      "lastSentenceId": "ch6-s81",
+      "beforeSentenceId": "ch6-s81",
+      "image": "assets/scenes/ch06-b003/03.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-04",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s82",
+      "lastSentenceId": "ch6-s86",
+      "beforeSentenceId": "ch6-s82",
+      "image": "assets/scenes/ch06-b003/04.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-05",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s87",
+      "lastSentenceId": "ch6-s88",
+      "beforeSentenceId": "ch6-s87",
+      "image": "assets/scenes/ch06-b003/05.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-06",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s89",
+      "lastSentenceId": "ch6-s90",
+      "beforeSentenceId": "ch6-s89",
+      "image": "assets/scenes/ch06-b003/06.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-07",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s91",
+      "lastSentenceId": "ch6-s91",
+      "beforeSentenceId": "ch6-s91",
+      "image": "assets/scenes/ch06-b003/07.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-08",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s92",
+      "lastSentenceId": "ch6-s94",
+      "beforeSentenceId": "ch6-s92",
+      "image": "assets/scenes/ch06-b003/08.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-09",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s95",
+      "lastSentenceId": "ch6-s96",
+      "beforeSentenceId": "ch6-s95",
+      "image": "assets/scenes/ch06-b003/09.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-10",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s97",
+      "lastSentenceId": "ch6-s98",
+      "beforeSentenceId": "ch6-s97",
+      "image": "assets/scenes/ch06-b003/10.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-11",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s99",
+      "lastSentenceId": "ch6-s101",
+      "beforeSentenceId": "ch6-s99",
+      "image": "assets/scenes/ch06-b003/11.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-12",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s102",
+      "lastSentenceId": "ch6-s102",
+      "beforeSentenceId": "ch6-s102",
+      "image": "assets/scenes/ch06-b003/12.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-13",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s103",
+      "lastSentenceId": "ch6-s107",
+      "beforeSentenceId": "ch6-s103",
+      "image": "assets/scenes/ch06-b003/13.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-14",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s108",
+      "lastSentenceId": "ch6-s109",
+      "beforeSentenceId": "ch6-s108",
+      "image": "assets/scenes/ch06-b003/14.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-15",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s110",
+      "lastSentenceId": "ch6-s113",
+      "beforeSentenceId": "ch6-s110",
+      "image": "assets/scenes/ch06-b003/15.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    },
+    {
+      "id": "ch06-b003-16",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s114",
+      "lastSentenceId": "ch6-s118",
+      "beforeSentenceId": "ch6-s114",
+      "image": "assets/scenes/ch06-b003/16.png",
+      "alt": "Michael Gibby and Ridge discuss Ridge’s mysterious origin on the courtyard bench",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-font density not certified; long contextual groups require later density audit"
+    }
+  ]
+}
