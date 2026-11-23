@@ -167,6 +167,17 @@
         "status": "accepted",
         "limitations": "16??1? ?? ??. ????????? ?? ??.4??6?? ????."
       }
+    },
+    {
+      "id": "clipper",
+      "file": "assets/character-sheets/clipper-v1.png",
+      "original": "assets/character-sheets/clipper-v1.png",
+      "prompt": "Six views of small ginger female stray, shortened tail, healed missing-fur patch on left flank, warm rounded ink pastel.",
+      "reference": "new design; source ch5-s116..119",
+      "review": {
+        "status": "accepted",
+        "limitations": "Coat/eyes/patch position are production choices; six feline views, not human turnaround."
+      }
     }
   ]
 }

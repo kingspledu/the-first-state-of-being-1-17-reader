@@ -1,0 +1,207 @@
+{
+  "id": "ch05-b004",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "source": "ch05-b004-approved-v1.png",
+  "unusedAlternativeTiles": [],
+  "scenes": [
+    {
+      "id": "ch05-b004-01",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s114",
+      "lastSentenceId": "ch5-s115",
+      "beforeSentenceId": "ch5-s114",
+      "image": "assets/scenes/ch05-b004/01.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-02",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s116",
+      "lastSentenceId": "ch5-s116",
+      "beforeSentenceId": "ch5-s116",
+      "image": "assets/scenes/ch05-b004/02.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-03",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s117",
+      "lastSentenceId": "ch5-s119",
+      "beforeSentenceId": "ch5-s117",
+      "image": "assets/scenes/ch05-b004/03.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-04",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s120",
+      "lastSentenceId": "ch5-s121",
+      "beforeSentenceId": "ch5-s120",
+      "image": "assets/scenes/ch05-b004/04.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-05",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s122",
+      "lastSentenceId": "ch5-s123",
+      "beforeSentenceId": "ch5-s122",
+      "image": "assets/scenes/ch05-b004/05.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-06",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s124",
+      "lastSentenceId": "ch5-s126",
+      "beforeSentenceId": "ch5-s124",
+      "image": "assets/scenes/ch05-b004/06.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-07",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s127",
+      "lastSentenceId": "ch5-s129",
+      "beforeSentenceId": "ch5-s127",
+      "image": "assets/scenes/ch05-b004/07.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-08",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s130",
+      "lastSentenceId": "ch5-s132",
+      "beforeSentenceId": "ch5-s130",
+      "image": "assets/scenes/ch05-b004/08.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-09",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s133",
+      "lastSentenceId": "ch5-s135",
+      "beforeSentenceId": "ch5-s133",
+      "image": "assets/scenes/ch05-b004/09.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-10",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s136",
+      "lastSentenceId": "ch5-s137",
+      "beforeSentenceId": "ch5-s136",
+      "image": "assets/scenes/ch05-b004/10.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-11",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s138",
+      "lastSentenceId": "ch5-s138",
+      "beforeSentenceId": "ch5-s138",
+      "image": "assets/scenes/ch05-b004/11.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-12",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s139",
+      "lastSentenceId": "ch5-s142",
+      "beforeSentenceId": "ch5-s139",
+      "image": "assets/scenes/ch05-b004/12.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-13",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s143",
+      "lastSentenceId": "ch5-s147",
+      "beforeSentenceId": "ch5-s143",
+      "image": "assets/scenes/ch05-b004/13.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-14",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s148",
+      "lastSentenceId": "ch5-s149",
+      "beforeSentenceId": "ch5-s148",
+      "image": "assets/scenes/ch05-b004/14.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-15",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s150",
+      "lastSentenceId": "ch5-s151",
+      "beforeSentenceId": "ch5-s150",
+      "image": "assets/scenes/ch05-b004/15.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    },
+    {
+      "id": "ch05-b004-16",
+      "chapter": 5,
+      "firstSentenceId": "ch5-s152",
+      "lastSentenceId": "ch5-s152",
+      "beforeSentenceId": "ch5-s152",
+      "image": "assets/scenes/ch05-b004/16.png",
+      "alt": "Michael observes Ridge and Clipper, makes a phone call, and prepares to go outside",
+      "depictionType": "story",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed font density audit pending; source grouping only"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-22.3",
+  "version": "2026-11-23.1",
   "purpose": "Compatibility export; edit consistency/registry.json only",
   "scope": "1–39장 중 확보된 1–12,15 일부,16–39 조사. 13–14 미확보;15 완전성 미확인. 전체 인물 최종 누락 없음 보장 불가.",
   "authority": [
@@ -80,7 +80,7 @@
         "note": "장면 의상·질병·시점은 원문 우선. 외형은 기존 마스터를 계승한 제작 기준."
       },
       "productionDesign": "짙은 짧은 헝클어진 머리, 큰 갈색 눈, 작고 마른 체형. 기존 마스터의 얼굴·피부색을 기준으로 고정.",
-      "wardrobe": "기본 남색 후디·줄무늬 티·청바지·흰 Jordans. 17장에서는 Red Hot Chili Peppers 티셔츠. 의상은 사건 시점에 맞춰 변경."
+      "wardrobe": "Thin navy nylon stand-collar windbreaker without hood; cream/navy striped shirt; jeans. After ch5-s110 new white/red high-top design is production choice.\n기본 남색 후디·줄무늬 티·청바지·흰 Jordans. 17장에서는 Red Hot Chili Peppers 티셔츠. 의상은 사건 시점에 맞춰 변경."
     },
     {
       "id": "ridge",
@@ -997,7 +997,7 @@
         "Clipper"
       ],
       "category": "동물",
-      "sourceFacts": "Ridge와 벤치에 있던 작은 고양이.",
+      "sourceFacts": "Female stray cat: shortened tail and patch of missing fur; sits on Ridge lap, enjoys scratching behind ears (ch5-s116..119).",
       "actingAndRestrictions": "두 고양이 구분 시트 필요.",
       "evidenceChapters": [
         5,
@@ -1005,9 +1005,16 @@
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "sheetStatus": "Individual feline continuity sheet reviewed",
       "audioPersonaId": "clipper",
-      "productionDesign": "작은 고양이 체구. 털색·눈색 미확정.",
+      "visualReference": {
+        "image": "assets/character-sheets/clipper-v1.png",
+        "original": "assets/character-sheets/clipper-v1.png",
+        "version": 1,
+        "reviewed": "2026-11-23",
+        "note": "Six feline continuity views; source tail and fur patch preserved; coat chosen for production."
+      },
+      "productionDesign": "Production choice: pale ginger coat, cream muzzle/chest, amber eyes, healed fur-less patch on left flank. Not inferred as source fact.",
       "wardrobe": "없음."
     },
     {

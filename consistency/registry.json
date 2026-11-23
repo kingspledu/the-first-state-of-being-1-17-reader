@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-22.3",
+  "version": "2026-11-23.1",
   "canonicalUrl": "https://kingspledu.github.io/the-first-state-of-being-1-17-reader/resources.html",
   "scope": "1–39장 중 확보된 1–12,15 일부,16–39 조사. 13–14 미확보;15 완전성 미확인. 전체 인물 최종 누락 없음 보장 불가.",
   "authority": [
@@ -79,6 +79,10 @@
       },
       "designChoices": "짙은 짧은 헝클어진 머리, 큰 갈색 눈, 작고 마른 체형. 기존 마스터의 얼굴·피부색을 기준으로 고정.",
       "costumeStates": [
+        {
+          "scope": "Chapters1..5 current afternoon/evening continuity",
+          "description": "Thin navy nylon stand-collar windbreaker without hood; cream/navy striped shirt; jeans. After ch5-s110 new white/red high-top design is production choice."
+        },
         {
           "scope": "장면별 원문 우선",
           "description": "기본 남색 후디·줄무늬 티·청바지·흰 Jordans. 17장에서는 Red Hot Chili Peppers 티셔츠. 의상은 사건 시점에 맞춰 변경."
@@ -1718,7 +1722,7 @@
         "Clipper"
       ],
       "category": "동물",
-      "sourceFacts": "Ridge와 벤치에 있던 작은 고양이.",
+      "sourceFacts": "Female stray cat: shortened tail and patch of missing fur; sits on Ridge lap, enjoys scratching behind ears (ch5-s116..119).",
       "actingAndRestrictions": "두 고양이 구분 시트 필요.",
       "evidenceChapters": [
         5,
@@ -1726,17 +1730,19 @@
         19
       ],
       "evidenceStatus": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함",
-      "sheetStatus": "개별 이미지 시트 생성 대기",
+      "sheetStatus": "Individual feline continuity sheet reviewed",
       "audioPersonaId": "clipper",
-      "designChoices": "작은 고양이 체구. 털색·눈색 미확정.",
+      "designChoices": "Production choice: pale ginger coat, cream muzzle/chest, amber eyes, healed fur-less patch on left flank. Not inferred as source fact.",
       "costumeStates": [
         {
           "scope": "장면별 원문 우선",
           "description": "없음."
         }
       ],
-      "referenceAssetIds": [],
-      "verificationStatus": "text-only-needs-sheet",
+      "referenceAssetIds": [
+        "sheet-clipper"
+      ],
+      "verificationStatus": "visual-reviewed",
       "source": {
         "chapters": [
           5,
@@ -1745,6 +1751,13 @@
         ],
         "paragraphId": null,
         "note": "문자열 후보와 본문 문맥 조사; 장 목록은 직접 출연과 언급 모두 포함"
+      },
+      "visualReference": {
+        "image": "assets/character-sheets/clipper-v1.png",
+        "original": "assets/character-sheets/clipper-v1.png",
+        "version": 1,
+        "reviewed": "2026-11-23",
+        "note": "Six feline continuity views; source tail and fur patch preserved; coat chosen for production."
       }
     },
     {
@@ -2412,6 +2425,14 @@
       "sha256": "509094e95f266360bd7d558b425f9d5ef1583249ec75829792a0dd98c966dba7",
       "status": "provisional",
       "usage": "Summer courtyard architecture, paths, parked cars and provisional tabby stray cat. Layout and fur are production choices, not source facts."
+    },
+    {
+      "id": "sheet-clipper",
+      "path": "assets/character-sheets/clipper-v1.png",
+      "source": "built-in image_gen",
+      "sha256": "8529376a55972947017b8e2d11cbbcb95b1bc4525db61e974723b19976a3dcf7",
+      "status": "active",
+      "usage": "Production choice: pale ginger coat, cream muzzle/chest, amber eyes, healed fur-less patch on left flank. Not inferred as source fact."
     }
   ],
   "conflicts": [
@@ -2639,6 +2660,17 @@
         "review": {
           "status": "accepted",
           "limitations": "16??1? ?? ??. ????????? ?? ??.4??6?? ????."
+        }
+      },
+      {
+        "id": "clipper",
+        "file": "assets/character-sheets/clipper-v1.png",
+        "original": "assets/character-sheets/clipper-v1.png",
+        "prompt": "Six views of small ginger female stray, shortened tail, healed missing-fur patch on left flank, warm rounded ink pastel.",
+        "reference": "new design; source ch5-s116..119",
+        "review": {
+          "status": "accepted",
+          "limitations": "Coat/eyes/patch position are production choices; six feline views, not human turnaround."
         }
       }
     ]
