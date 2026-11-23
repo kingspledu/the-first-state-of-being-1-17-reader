@@ -1,0 +1,198 @@
+{
+  "id": "ch06-b002",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "source": "ch06-b002-approved-v1.png",
+  "unusedAlternativeTiles": [
+    7
+  ],
+  "mappingNote": "Tile6 precedes tile5 in text; tile7 duplicate evasion kept as alternative, not inserted.",
+  "scenes": [
+    {
+      "id": "ch06-b002-01",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s40",
+      "lastSentenceId": "ch6-s41",
+      "beforeSentenceId": "ch6-s40",
+      "image": "assets/scenes/ch06-b002/01.png",
+      "alt": "Michael thinks about college",
+      "gridTile": 1,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-02",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s42",
+      "lastSentenceId": "ch6-s44",
+      "beforeSentenceId": "ch6-s42",
+      "image": "assets/scenes/ch06-b002/02.png",
+      "alt": "Michael wonders about Gibby and his future",
+      "gridTile": 2,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-03",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s45",
+      "lastSentenceId": "ch6-s45",
+      "beforeSentenceId": "ch6-s45",
+      "image": "assets/scenes/ch06-b002/03.png",
+      "alt": "Ridge mentions his mother’s university work",
+      "gridTile": 3,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-04",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s46",
+      "lastSentenceId": "ch6-s48",
+      "beforeSentenceId": "ch6-s46",
+      "image": "assets/scenes/ch06-b002/04.png",
+      "alt": "Gibby asks about the department",
+      "gridTile": 4,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-06",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s49",
+      "lastSentenceId": "ch6-s50",
+      "beforeSentenceId": "ch6-s49",
+      "image": "assets/scenes/ch06-b002/06.png",
+      "alt": "Michael asks what STS means",
+      "gridTile": 6,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-05",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s51",
+      "lastSentenceId": "ch6-s53",
+      "beforeSentenceId": "ch6-s51",
+      "image": "assets/scenes/ch06-b002/05.png",
+      "alt": "Ridge stops himself and evades the answer",
+      "gridTile": 5,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-08",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s54",
+      "lastSentenceId": "ch6-s54",
+      "beforeSentenceId": "ch6-s54",
+      "image": "assets/scenes/ch06-b002/08.png",
+      "alt": "Gibby asks whether Ridge lives at the complex",
+      "gridTile": 8,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-09",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s55",
+      "lastSentenceId": "ch6-s56",
+      "beforeSentenceId": "ch6-s55",
+      "image": "assets/scenes/ch06-b002/09.png",
+      "alt": "Ridge says it is complicated",
+      "gridTile": 9,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-10",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s57",
+      "lastSentenceId": "ch6-s58",
+      "beforeSentenceId": "ch6-s57",
+      "image": "assets/scenes/ch06-b002/10.png",
+      "alt": "Gibby asks for a clearer answer",
+      "gridTile": 10,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-11",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s59",
+      "lastSentenceId": "ch6-s59",
+      "beforeSentenceId": "ch6-s59",
+      "image": "assets/scenes/ch06-b002/11.png",
+      "alt": "Ridge says he both does and does not live here",
+      "gridTile": 11,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-12",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s60",
+      "lastSentenceId": "ch6-s62",
+      "beforeSentenceId": "ch6-s60",
+      "image": "assets/scenes/ch06-b002/12.png",
+      "alt": "Gibby asks whether Ridge is homeless",
+      "gridTile": 12,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-13",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s63",
+      "lastSentenceId": "ch6-s64",
+      "beforeSentenceId": "ch6-s63",
+      "image": "assets/scenes/ch06-b002/13.png",
+      "alt": "Ridge seems puzzled by the word",
+      "gridTile": 13,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-14",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s65",
+      "lastSentenceId": "ch6-s67",
+      "beforeSentenceId": "ch6-s65",
+      "image": "assets/scenes/ch06-b002/14.png",
+      "alt": "Ridge describes faculty housing",
+      "gridTile": 14,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-15",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s68",
+      "lastSentenceId": "ch6-s71",
+      "beforeSentenceId": "ch6-s68",
+      "image": "assets/scenes/ch06-b002/15.png",
+      "alt": "Gibby disputes the campus name and Ridge mutters",
+      "gridTile": 15,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    },
+    {
+      "id": "ch06-b002-16",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s72",
+      "lastSentenceId": "ch6-s74",
+      "beforeSentenceId": "ch6-s72",
+      "image": "assets/scenes/ch06-b002/16.png",
+      "alt": "Michael looks toward his apartment",
+      "gridTile": 16,
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "fixed-font density not measured; contextual grouping pendingaudit"
+    }
+  ]
+}

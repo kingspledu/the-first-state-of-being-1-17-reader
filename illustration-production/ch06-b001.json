@@ -9,7 +9,7 @@
     236
   ],
   "cropInset": 10,
-  "source": "ch06-b001-approved-v1.png",
+  "source": "ch06-b001-approved-v2.png",
   "qualityLimitation": "1536x1024 native grid; no upscaling; full high-resolution target remains unmet",
   "scenes": [
     {
@@ -300,5 +300,6 @@
       "reviewStatus": "visual-and-source-reviewed",
       "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
     }
-  ]
+  ],
+  "correction": "Pink open-toe sandals corrected in cell8, feet moved inside safe margins"
 }
