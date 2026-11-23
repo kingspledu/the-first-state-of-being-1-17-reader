@@ -1,0 +1,304 @@
+{
+  "id": "ch06-b001",
+  "nativeSize": [
+    1536,
+    1024
+  ],
+  "tileSize": [
+    364,
+    236
+  ],
+  "cropInset": 10,
+  "source": "ch06-b001-approved-v1.png",
+  "qualityLimitation": "1536x1024 native grid; no upscaling; full high-resolution target remains unmet",
+  "scenes": [
+    {
+      "id": "ch06-b001-01",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s1",
+      "lastSentenceId": "ch6-s1",
+      "beforeSentenceId": "ch6-s1",
+      "image": "assets/scenes/ch06-b001/01.png",
+      "alt": "Michael reaches the courtyard before Gibby",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-02",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s2",
+      "lastSentenceId": "ch6-s3",
+      "beforeSentenceId": "ch6-s2",
+      "image": "assets/scenes/ch06-b001/02.png",
+      "alt": "Michael feels anxious about meeting Ridge alone",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-03",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s4",
+      "lastSentenceId": "ch6-s4",
+      "beforeSentenceId": "ch6-s4",
+      "image": "assets/scenes/ch06-b001/03.png",
+      "alt": "Ridge looks up and notices Michael",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-04",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s5",
+      "lastSentenceId": "ch6-s6",
+      "beforeSentenceId": "ch6-s5",
+      "image": "assets/scenes/ch06-b001/04.png",
+      "alt": "Ridge greets Michael",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-05",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s7",
+      "lastSentenceId": "ch6-s8",
+      "beforeSentenceId": "ch6-s7",
+      "image": "assets/scenes/ch06-b001/05.png",
+      "alt": "Ridge makes room on the bench",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-06",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s9",
+      "lastSentenceId": "ch6-s10",
+      "beforeSentenceId": "ch6-s9",
+      "image": "assets/scenes/ch06-b001/06.png",
+      "alt": "Clipper runs safely away",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-07",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s11",
+      "lastSentenceId": "ch6-s13",
+      "beforeSentenceId": "ch6-s11",
+      "image": "assets/scenes/ch06-b001/07.png",
+      "alt": "Michael hesitates before accepting a seat",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-08",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s14",
+      "lastSentenceId": "ch6-s14",
+      "beforeSentenceId": "ch6-s14",
+      "image": "assets/scenes/ch06-b001/08.png",
+      "alt": "Michael sits as Gibby arrives in a university T-shirt",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-09",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s15",
+      "lastSentenceId": "ch6-s17",
+      "beforeSentenceId": "ch6-s15",
+      "image": "assets/scenes/ch06-b001/09.png",
+      "alt": "Ridge asks whether this is a meeting place",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-10",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s18",
+      "lastSentenceId": "ch6-s20",
+      "beforeSentenceId": "ch6-s18",
+      "image": "assets/scenes/ch06-b001/10.png",
+      "alt": "Michael finds Ridge’s slang awkward",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-11",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s21",
+      "lastSentenceId": "ch6-s22",
+      "beforeSentenceId": "ch6-s21",
+      "image": "assets/scenes/ch06-b001/11.png",
+      "alt": "Michael asks Ridge’s age",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-12",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s23",
+      "lastSentenceId": "ch6-s25",
+      "beforeSentenceId": "ch6-s23",
+      "image": "assets/scenes/ch06-b001/12.png",
+      "alt": "Gibby sits and asks about the cat",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-13",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s26",
+      "lastSentenceId": "ch6-s29",
+      "beforeSentenceId": "ch6-s26",
+      "image": "assets/scenes/ch06-b001/13.png",
+      "alt": "Ridge notices Gibby’s university shirt",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-14",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s30",
+      "lastSentenceId": "ch6-s33",
+      "beforeSentenceId": "ch6-s30",
+      "image": "assets/scenes/ch06-b001/14.png",
+      "alt": "Gibby explains her age and school",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-15",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s34",
+      "lastSentenceId": "ch6-s36",
+      "beforeSentenceId": "ch6-s34",
+      "image": "assets/scenes/ch06-b001/15.png",
+      "alt": "Ridge explains that his mother teaches him",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    },
+    {
+      "id": "ch06-b001-16",
+      "chapter": 6,
+      "firstSentenceId": "ch6-s37",
+      "lastSentenceId": "ch6-s39",
+      "beforeSentenceId": "ch6-s37",
+      "image": "assets/scenes/ch06-b001/16.png",
+      "alt": "Gibby discusses homeschooling and her college hopes",
+      "referenceIds": [
+        "sheet-michael",
+        "sheet-gibby",
+        "sheet-ridge",
+        "sheet-clipper"
+      ],
+      "costumeState": "Gibby oversized university T-shirt per ch6-s14; blue/gold color is production choice; blue scrunchie and pink sandals retained. Michael no-hood windbreaker and new white/red high tops.",
+      "reviewStatus": "visual-and-source-reviewed",
+      "readingUnitsStatus": "Actual fixed-width line density not measured; semantic grouping only"
+    }
+  ]
+}
